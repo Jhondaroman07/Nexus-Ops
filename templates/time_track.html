@@ -1,0 +1,72 @@
+{% extends "base.html" %}
+
+{% block title %}Time Track{% endblock %}
+
+{% block content %}
+<style>
+    .time-track-container {
+        text-align: center;
+        padding: 40px 20px;
+    }
+    .time-track-container h2 {
+        border-bottom: none;
+        margin-bottom: 30px;
+    }
+    .status-panel {
+        background-color: var(--light-color);
+        padding: 20px;
+        border-radius: var(--border-radius);
+        margin-bottom: 30px;
+        border: 1px solid #dee2e6;
+    }
+    .status-panel p {
+        margin: 0;
+        font-size: 1.1em;
+        font-weight: 500;
+    }
+    .status-active {
+        color: var(--success-color);
+    }
+    .status-inactive {
+        color: var(--secondary-color);
+    }
+    .time-buttons {
+        display: flex;
+        justify-content: center;
+        gap: 20px;
+    }
+</style>
+
+<div class="time-track-container">
+    <h2>Registro de Tiempo de Gestión</h2>
+
+    <div class="status-panel">
+        {% if active_log %}
+            <p class="status-active">
+                {# CORREGIDO: Usamos la variable start_time_local que procesamos en la ruta #}
+                Gestión ACTIVA desde: {{ active_log.start_time_local.strftime('%Y-%m-%d %H:%M:%S') }}
+            </p>
+        {% else %}
+            <p class="status-inactive">
+                No tienes ninguna gestión activa en este momento.
+            </p>
+        {% endif %}
+    </div>
+
+    <div class="time-buttons">
+        {% if not active_log %}
+            <form method="POST" action="{{ url_for('start_management') }}">
+                <button type="submit" class="button-link" style="background-color: var(--success-color);">
+                    ▶️ Iniciar Gestión
+                </button>
+            </form>
+        {% else %}
+            <form method="POST" action="{{ url_for('end_management') }}">
+                <button type="submit" class="button-link button-danger">
+                    ⏹️ Finalizar Gestión
+                </button>
+            </form>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

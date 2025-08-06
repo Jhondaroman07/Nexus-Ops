@@ -1,0 +1,180 @@
+{% extends "base.html" %}
+
+{% block title %}Editar Usuario{% endblock %}
+
+{% block content %}
+<style>
+    .profile-form-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 20px 30px;
+    }
+    .form-section-title {
+        grid-column: 1 / -1;
+        margin-top: 20px;
+        margin-bottom: 0;
+        font-size: 1.1em;
+        color: var(--primary-color);
+        border-bottom: 1px solid #eee;
+        padding-bottom: 10px;
+    }
+    .file-download-section {
+        grid-column: 1 / -1;
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 20px;
+    }
+    .file-download-card {
+        background-color: #fdfdff;
+        border: 1px solid #e0e0e0;
+        border-radius: var(--border-radius);
+        padding: 20px;
+        text-align: center;
+    }
+</style>
+
+<h2>Editar Usuario: {{ user.email }}</h2>
+
+<form method="POST" action="{{ url_for('edit_user', user_id=user.id) }}">
+    <div class="profile-form-grid">
+        <h4 class="form-section-title">Información de Acceso</h4>
+        <div class="form-group">
+            <label for="email">Correo Corporativo</label>
+            <input type="email" id="email" name="email" value="{{ user.email }}" required>
+        </div>
+        <div class="form-group">
+            <label for="password">Nueva Contraseña (Opcional)</label>
+            <input type="password" id="password" name="password" placeholder="Dejar en blanco para no cambiar">
+        </div>
+        <div class="form-group">
+            <label for="role">Rol:</label>
+            <select name="role" id="role">
+                <option value="Agent" {% if user.role == 'Agent' %}selected{% endif %}>Agent</option>
+                <option value="Admin" {% if user.role == 'Admin' %}selected{% endif %}>Admin</option>
+                {% if current_user.role == 'Gerente' %}
+                <option value="SubGerente" {% if user.role == 'SubGerente' %}selected{% endif %}>SubGerente</option>
+                <option value="Gerente" {% if user.role == 'Gerente' %}selected{% endif %}>Gerente</option>
+                {% elif current_user.role == 'SubGerente' %}
+                <option value="SubGerente" {% if user.role == 'SubGerente' %}selected{% endif %}>SubGerente</option>
+                {% endif %}
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="estado_colaborador">Estado del Colaborador</label>
+            <select id="estado_colaborador" name="estado_colaborador">
+                <option value="Activo" {% if user.estado_colaborador == 'Activo' %}selected{% endif %}>Activo</option>
+                <option value="Baja" {% if user.estado_colaborador == 'Baja' %}selected{% endif %}>Baja</option>
+            </select>
+        </div>
+
+        <h4 class="form-section-title">Información Personal</h4>
+        <div class="form-group">
+            <label for="nombre">Nombre(s)</label>
+            <input type="text" id="nombre" name="nombre" value="{{ user.nombre or '' }}" required>
+        </div>
+        <div class="form-group">
+            <label for="apellido">Apellido(s)</label>
+            <input type="text" id="apellido" name="apellido" value="{{ user.apellido or '' }}" required>
+        </div>
+        <div class="form-group">
+            <label for="correo_personal">Correo Personal</label>
+            <input type="email" id="correo_personal" name="correo_personal" value="{{ user.correo_personal or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="tipo_documento">Tipo de Documento</label>
+            <select id="tipo_documento" name="tipo_documento">
+                <option value="" {% if not user.tipo_documento %}selected{% endif %}>-- Seleccionar --</option>
+                <option value="DNI" {% if user.tipo_documento == 'DNI' %}selected{% endif %}>Documento Nacional de Identidad</option>
+                <option value="PEP" {% if user.tipo_documento == 'PEP' %}selected{% endif %}>PEP</option>
+                <option value="Pasaporte" {% if user.tipo_documento == 'Pasaporte' %}selected{% endif %}>Pasaporte</option>
+                <option value="Otro" {% if user.tipo_documento == 'Otro' %}selected{% endif %}>Otro</option>
+            </select>
+        </div>
+        <div class="form-group">
+            <label for="numero_documento">Número de Documento</label>
+            <input type="text" id="numero_documento" name="numero_documento" value="{{ user.numero_documento or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="numero_celular">Número Celular</label>
+            <input type="tel" id="numero_celular" name="numero_celular" value="{{ user.numero_celular or '' }}" placeholder="+57 3001234567">
+        </div>
+        <div class="form-group">
+            <label for="fecha_nacimiento">Fecha de Nacimiento</label>
+            <input type="date" id="fecha_nacimiento" name="fecha_nacimiento" value="{{ user.fecha_nacimiento or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="pais_residencia">País de Residencia</label>
+            <input type="text" id="pais_residencia" name="pais_residencia" value="{{ user.pais_residencia or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="ciudad_residencia">Ciudad de Residencia</label>
+            <input type="text" id="ciudad_residencia" name="ciudad_residencia" value="{{ user.ciudad_residencia or '' }}">
+        </div>
+
+        <h4 class="form-section-title">Información Profesional</h4>
+        <div class="form-group">
+            <label for="fecha_ingreso">Fecha de Ingreso</label>
+            <input type="date" id="fecha_ingreso" name="fecha_ingreso" value="{{ user.fecha_ingreso or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="linkedin_url">URL Perfil de LinkedIn</label>
+            <input type="url" id="linkedin_url" name="linkedin_url" value="{{ user.linkedin_url or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="service">Service</label>
+            <input type="text" id="service" name="service" value="{{ user.service or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="lob">LOB</label>
+            <input type="text" id="lob" name="lob" value="{{ user.lob or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="cargo">Cargo</label>
+            <input type="text" id="cargo" name="cargo" value="{{ user.cargo or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="tl">Team Lead (TL)</label>
+            <input type="text" id="tl" name="tl" value="{{ user.tl or '' }}">
+        </div>
+        <div class="form-group">
+            <label for="tm">Team Manager (TM)</label>
+            <input type="text" id="tm" name="tm" value="{{ user.tm or '' }}">
+        </div>
+    </div>
+    
+    <div style="display: flex; justify-content: space-between; align-items: center; margin-top: 30px;">
+        <button type="submit">Guardar Cambios</button>
+        <a href="{{ url_for('admin_panel') }}" class="button-link button-secondary">Cancelar</a>
+    </div>
+</form>
+
+<hr style="margin: 40px 0;">
+
+<h3>Documentos Cargados</h3>
+<div class="file-download-section">
+    <div class="file-download-card">
+        <h4>Documento de Identidad</h4>
+        {% if user.documento_identidad_file %}
+            <a href="{{ url_for('download_document', user_id=user.id, doc_type='identidad') }}" class="button-link">Descargar</a>
+        {% else %}
+            <p style="color: var(--danger-color);">No cargado</p>
+        {% endif %}
+    </div>
+    <div class="file-download-card">
+        <h4>Certificado Bancario</h4>
+        {% if user.certificado_bancario_file %}
+            <a href="{{ url_for('download_document', user_id=user.id, doc_type='bancario') }}" class="button-link">Descargar</a>
+        {% else %}
+            <p style="color: var(--danger-color);">No cargado</p>
+        {% endif %}
+    </div>
+    <div class="file-download-card">
+        <h4>Contrato</h4>
+        {% if user.contrato_file %}
+            <a href="{{ url_for('download_document', user_id=user.id, doc_type='contrato') }}" class="button-link">Descargar</a>
+        {% else %}
+            <p style="color: var(--danger-color);">No cargado</p>
+        {% endif %}
+    </div>
+</div>
+{% endblock %}

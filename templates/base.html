@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{% block title %}Inicio{% endblock %} - Nexus Ops</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --primary-color: #007bff;
+            --secondary-color: #6c757d;
+            --success-color: #28a745;
+            --danger-color: #dc3545;
+            --warning-color: #ffc107;
+            --info-color: #17a2b8;
+            --light-color: #f8f9fa;
+            --dark-color: #343a40;
+            --background-color: #e9ecef;
+            --font-family: 'Roboto', sans-serif;
+            --border-radius: 8px;
+            --box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        }
+        body {
+            font-family: var(--font-family);
+            background-color: var(--background-color);
+            margin: 0;
+            padding: 20px;
+            color: var(--dark-color);
+            line-height: 1.6;
+        }
+        .main-container { max-width: 900px; margin: 0 auto; }
+        nav {
+            background-color: #ffffff;
+            padding: 10px 20px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 25px;
+        }
+        nav .logo { font-weight: 700; font-size: 1.2em; color: var(--primary-color); }
+        .nav-links { display: flex; align-items: center; gap: 10px; }
+        nav a {
+            color: var(--secondary-color);
+            text-decoration: none;
+            padding: 8px 12px;
+            border-radius: 5px;
+            transition: background-color 0.3s, color 0.3s;
+            font-weight: 500;
+        }
+        nav a:hover, nav a.active {
+            background-color: var(--primary-color);
+            color: white;
+        }
+        .container {
+            background: #ffffff;
+            padding: 25px 30px;
+            border-radius: var(--border-radius);
+            box-shadow: var(--box-shadow);
+        }
+        h1, h2, h3 { color: var(--dark-color); text-align: center; margin-bottom: 20px; }
+        h1 { font-size: 2em; }
+        h2 { font-size: 1.6em; }
+        h3 { font-size: 1.3em; border-bottom: 2px solid var(--primary-color); padding-bottom: 10px; }
+        .role-badge {
+            font-size: 0.85em;
+            font-weight: 700;
+            padding: 5px 12px;
+            border-radius: 15px;
+            color: white;
+            margin-right: 15px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.15);
+        }
+        .role-gerente { background: linear-gradient(45deg, var(--warning-color), #ff9800); }
+        .role-subgerente { background: linear-gradient(45deg, #6610f2, #6f42c1); }
+        .role-admin { background: linear-gradient(45deg, var(--info-color), #20c997); }
+        .role-agent { background: linear-gradient(45deg, var(--secondary-color), var(--dark-color)); }
+        .user-menu {
+            position: relative;
+            display: inline-block;
+        }
+        .user-menu-button {
+            background-color: var(--light-color);
+            color: var(--dark-color);
+            padding: 8px 12px;
+            font-size: 1em;
+            border: 1px solid #ddd;
+            cursor: pointer;
+            border-radius: 5px;
+            font-weight: 500;
+        }
+        .user-menu-content {
+            display: none;
+            position: absolute;
+            background-color: white;
+            min-width: 160px;
+            box-shadow: var(--box-shadow);
+            z-index: 1;
+            right: 0;
+            border-radius: var(--border-radius);
+            overflow: hidden;
+        }
+        .user-menu-content a {
+            color: var(--dark-color);
+            padding: 12px 16px;
+            text-decoration: none;
+            display: block;
+            width: 100%;
+            box-sizing: border-box;
+            text-align: left;
+        }
+        .user-menu-content a:hover { background-color: #f1f1f1; color: var(--primary-color); }
+        .user-menu:hover .user-menu-content { display: block; }
+        .user-menu:hover .user-menu-button { background-color: #e2e6ea; }
+        .form-group { margin-bottom: 20px; }
+        label { display: block; margin-bottom: 8px; font-weight: 500; }
+        select, input[type="text"], input[type="file"], input[type="email"], input[type="password"], input[type="date"], input[type="url"], input[type="tel"] {
+            width: 100%; padding: 12px; border: 1px solid #ced4da; border-radius: 5px; box-sizing: border-box; transition: border-color 0.3s, box-shadow 0.3s;
+        }
+        select:focus, input:focus { border-color: var(--primary-color); box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.25); outline: none; }
+        button, .button-link { background-color: var(--primary-color); color: white; border: none; padding: 12px 20px; border-radius: 5px; cursor: pointer; font-size: 16px; font-weight: 500; transition: background-color 0.3s, transform 0.2s; text-decoration: none; display: inline-block; }
+        button:hover, .button-link:hover { background-color: #0056b3; transform: translateY(-2px); }
+        .button-danger { background-color: var(--danger-color); }
+        .button-danger:hover { background-color: #c82333; }
+        .button-secondary { background-color: var(--secondary-color); }
+        .button-secondary:hover { background-color: #5a6268; }
+        .message { padding: 15px; margin: 20px 0; border-radius: 5px; border-left: 5px solid; }
+        .error { background: #f8d7da; border-color: #f5c6cb; color: #721c24; }
+        .success { background: #d4edda; border-color: #c3e6cb; color: #155724; }
+        .info { background: #d1ecf1; border-color: #bee5eb; color: #0c5460; }
+        .warning { background: #fff3cd; border-color: #ffeeba; color: #856404; }
+    </style>
+</head>
+<body>
+    <div class="main-container">
+        {% if current_user.is_authenticated %}
+        <nav>
+            <div class="logo">Nexus Ops</div>
+            <div class="nav-links">
+                {% if current_user.role == 'Gerente' %}
+                    <span class="role-badge role-gerente">Gerente 👑</span>
+                {% elif current_user.role == 'SubGerente' %}
+                    <span class="role-badge role-subgerente">SubGerente 🛡️</span>
+                {% elif current_user.role == 'Admin' %}
+                    <span class="role-badge role-admin">Admin 🏅</span>
+                {% else %}
+                    <span class="role-badge role-agent">Agent ✅</span>
+                {% endif %}
+                
+                <a href="{{ url_for('index') }}" class="{{ 'active' if request.endpoint == 'index' else '' }}">Inicio</a>
+                
+                {% if current_user.role == 'Gerente' %}
+                <a href="{{ url_for('ejecutor') }}" class="{{ 'active' if request.endpoint == 'ejecutor' else '' }}">Ejecutor</a>
+                {% endif %}
+
+                <a href="{{ url_for('time_track_page') }}" class="{{ 'active' if request.endpoint == 'time_track_page' else '' }}">Time Track</a>
+                
+                {% if current_user.role in ['Admin', 'SubGerente', 'Gerente'] %}
+                <a href="{{ url_for('admin_panel') }}" class="{{ 'active' if request.endpoint in ['admin_panel', 'edit_user'] else '' }}">Panel Admin</a>
+                {% endif %}
+
+                {% if current_user.role in ['SubGerente', 'Gerente'] %}
+                <a href="{{ url_for('documentos') }}" class="{{ 'active' if request.endpoint == 'documentos' else '' }}">Documentos</a>
+                {% endif %}
+
+                <div class="user-menu">
+                    <button class="user-menu-button">{{ current_user.nombre or current_user.email }} ▾</button>
+                    <div class="user-menu-content">
+                        <a href="{{ url_for('mis_datos') }}">Mis Datos</a>
+                        <a href="{{ url_for('logout') }}">Cerrar Sesión</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+        {% endif %}
+
+        <div class="container">
+            {% with messages = get_flashed_messages(with_categories=true) %}
+                {% if messages %}
+                    {% for category, message in messages %}
+                    <div class="message {{ category }}">{{ message }}</div>
+                    {% endfor %}
+                {% endif %}
+            {% endwith %}
+            {% block content %}{% endblock %}
+        </div>
+    </div>
+</body>
+</html>

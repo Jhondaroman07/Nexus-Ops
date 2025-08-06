@@ -1,0 +1,882 @@
+SM,agent_email,LOB,Week,fecha,Inicio_Turno,Salida_Turno,Horario_Rooster,Total_horas
+kristell.campos_ndo.ext@pedidosya.com,sandy.antolinez_ndo.ext@pedidosya.com,PS_Onboarding,31,2025-08-02,,,,0.0
+kristell.campos_ndo.ext@pedidosya.com,ciro.osorio_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-02,,,09:00 - 13:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,diego.pulido_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-03,,,10:00 - 18:00,8.0
+kristell.campos_ndo.ext@pedidosya.com,fernanda.aparicio_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,08:00 - 14:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,gabriela.acosta_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-02,,,09:00 - 15:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,ivan.tovar_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,09:00 - 16:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,julian.toro_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,08:00 - 14:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,lucas.gamarra_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,14:00 - 20:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,marcela.gomez_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,08:00 - 14:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,valeria.marin_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,09:00 - 15:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,viadel.hoyos_ndo.ext@pedidosya.com,PS_PICS Moderacion,31,2025-08-01,,,15:00 - 21:30,6.5
+kristell.campos_ndo.ext@pedidosya.com,nathali.tellez_ndo.ext@pedidosya.com,,31,2025-08-01,,,16:30 - 21:00,4.5
+kristell.campos_ndo.ext@pedidosya.com,daniela.beltran_ndo.ext@pedidosya.com,,31,2025-08-01,,,15:00 - 22:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,dilan.paez_ndo.ext@pedidosya.com,,31,2025-08-02,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,johan.varon_ndo.ext@pedidosya.com,,31,2025-08-01,,,10:00 - 19:00,9.0
+kristell.campos_ndo.ext@pedidosya.com,isabel.guerra_ndo.ext@pedidosya.com,,31,2025-08-01,,,08:00 - 16:00,8.0
+kristell.campos_ndo.ext@pedidosya.com,laura.paez_ndo.ext@pedidosya.com,,31,2025-08-02,,,08:00 - 14:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,maria.calderon_ndo.ext@pedidosya.com,,31,2025-08-01,,,12:00 - 17:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,mayron.narvaez_ndo.ext@pedidosya.com,,31,2025-08-03,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,pahola.britto_ndo.ext@pedidosya.com,,31,2025-08-01,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,rodrigo.adarme_ndo.ext@pedidosya.com,,31,2025-08-01,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,yojana.ulloa_ndo.ext@pedidosya.com,,31,2025-08-01,,,08:00 - 15:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,angela.santana_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-02,,,13:00 - 18:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,ereelin.rangel_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,13:00 - 18:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,fernando.rodriguez_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-02,,,13:00 - 18:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,geraldine.izquierdo_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,13:00 - 18:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,henry.garcia_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,08:00 - 13:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,jonathan.perez_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,08:00 - 14:30,6.5
+kristell.campos_ndo.ext@pedidosya.com,katherine.vasquez_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,13:00 - 18:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,liceth.vergara_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-02,,,08:00 - 13:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,raymond.gomez_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,11:30 - 16:00,4.5
+kristell.campos_ndo.ext@pedidosya.com,teresa.leal_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-02,,,13:00 - 18:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,carlos.parra_ndo.ext@pedidosya.com,PS_Billing Support IB,31,2025-08-01,,,08:00 - 13:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,santiago.cordoba_ndo.ext@pedidosya.com,PS_Billing Support LT,31,2025-08-01,,,09:00 - 16:30,7.5
+kristell.campos_ndo.ext@pedidosya.com,alejandro.perez_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-02,,,09:00 - 17:00,8.0
+kristell.campos_ndo.ext@pedidosya.com,ana.romero_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,14:00 - 19:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,david.garcia_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-02,,,12:00 - 17:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,genny.garcia_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,14:00 - 19:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,johana.agudelo_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,09:00 - 14:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,karen.oviedo_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,09:00 - 16:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,paula.rincon_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,14:00 - 19:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,ronny.pinto_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,09:00 - 14:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,yaneth.caceres_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,10:00 - 17:30,7.5
+kristell.campos_ndo.ext@pedidosya.com,yovanny.corzo_ndo.ext@pedidosya.com,PS_CDD y RS,31,2025-08-01,,,11:00 - 19:00,8.0
+kristell.campos_ndo.ext@pedidosya.com,yohanibeth.parra_ndo.ext@pedidosya.com,PS_PICS Edicion,31,2025-08-01,,,09:00 - 17:00,8.0
+kristell.campos_ndo.ext@pedidosya.com,aillen.rangel_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,aillen.rangel_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,aillen.rangel_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-02,,,08:00 - 15:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,carmen.alanoca_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,00:00 - 00:30,0.5
+kristell.campos_ndo.ext@pedidosya.com,dylan.carrillo_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,15:00 - 20:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,emylce.bosa_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,15:00 - 20:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,veronica.leguizamon_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-03,,,15:00 - 20:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,enrique.caceres_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,georgina.perez_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,00:00 - 01:30,1.5
+kristell.campos_ndo.ext@pedidosya.com,gisela.fernandez_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,08:00 - 16:00,8.0
+kristell.campos_ndo.ext@pedidosya.com,gregori.gonzalez_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,08:00 - 15:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,ivan.aguirre_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-02,,,12:30 - 19:00,6.5
+kristell.campos_ndo.ext@pedidosya.com,jean.colina_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-03,,,15:00 - 20:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,kiara.bravo_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-01,,,14:00 - 18:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,miguel.tarazona_ndo.ext@pedidosya.com,PS_Phone,31,2025-08-02,,,15:00 - 20:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,juan.lopez_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,09:00 - 15:30,6.5
+kristell.campos_ndo.ext@pedidosya.com,jazmin.baron_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,jose.lopez_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,jose.moran_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,jose.ardila_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,10:00 - 14:30,4.5
+kristell.campos_ndo.ext@pedidosya.com,jenny.lopez_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,10:00 - 15:30,5.5
+kristell.campos_ndo.ext@pedidosya.com,lizeth.cadena_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,diego.herreno_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,Turno por cubrir,PS_Content Online,31,2025-08-01,,,10:00 - 17:30,7.5
+kristell.campos_ndo.ext@pedidosya.com,adriana.cabarcas_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+kristell.campos_ndo.ext@pedidosya.com,jose.moran_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,19:30 - 00:00,4.5
+kristell.campos_ndo.ext@pedidosya.com,ana.montes_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,andrea.tabarez_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,Turno por cubrir,PS_Content Online,31,2025-08-01,,,10:30 - 16:30,6.0
+kristell.campos_ndo.ext@pedidosya.com,oswaldo.correa_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,11:00 - 17:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,derlys.almario_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-03,,,16:30 - 23:00,6.5
+kristell.campos_ndo.ext@pedidosya.com,diana.pariona_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-02,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,miguel.tens_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,arnold.zevallos_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,jenny.roa_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,00:00 - 02:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,javier.pipicano_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,00:00 - 01:00,1.0
+kristell.campos_ndo.ext@pedidosya.com,kelly.ortega_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,08:00 - 14:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,lilia.munevar_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,08:00 - 14:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,lilian.franco_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-02,,,10:00 - 16:30,6.5
+kristell.campos_ndo.ext@pedidosya.com,maria.ocampo_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,14:00 - 20:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,nicolas.cortes_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-02,,,12:30 - 19:00,6.5
+kristell.campos_ndo.ext@pedidosya.com,yeimy.guacaneme_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,13:00 - 19:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,yesenia.pineda_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,14:00 - 20:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,yuliht.florez_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-02,,,14:00 - 20:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,zamir.sunem_ndo.ext@pedidosya.com,PS_Shopper Support,31,2025-08-01,,,10:00 - 17:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,anderson.mendez_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,jazmin.baron_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,jefreed.rueda_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,jessica.quiroga_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,john.cruz_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,jorge.lindarte_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,kiana.valenzuela_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,lizeth.cadena_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,viany.miranda_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,zeus.cedeno_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,20:30 - 00:00,3.5
+kristell.campos_ndo.ext@pedidosya.com,ximena.florez_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,12:00 - 18:30,6.5
+kristell.campos_ndo.ext@pedidosya.com,nicole.huaman_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,14:00 - 20:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,Turno por cubrir,PS_Content Online,31,2025-08-01,,,14:00 - 20:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,cristina.sierra_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,mayory.lamus_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,14:00 - 21:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,jefreed.rueda_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,jessica.quiroga_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,marian.garcia_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,15:00 - 22:00,7.0
+kristell.campos_ndo.ext@pedidosya.com,johan.moreno_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,jenny.lopez_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-02,,,11:30 - 16:30,5.0
+kristell.campos_ndo.ext@pedidosya.com,john.cruz_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,jorge.lindarte_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,juan.solano_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,kiana.valenzuela_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,jessica.montero_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-02,,,15:30 - 22:00,6.5
+kristell.campos_ndo.ext@pedidosya.com,maria.arroyo_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,mauricio.monsalvo_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,,0.0
+kristell.campos_ndo.ext@pedidosya.com,sergio.arguello_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,15:30 - 22:00,6.5
+kristell.campos_ndo.ext@pedidosya.com,miguel.tens_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,raul.troaquero_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,andres.villamizar_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,15:30 - 22:30,7.0
+kristell.campos_ndo.ext@pedidosya.com,viany.miranda_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,wilson.rojas_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,angela.chingal_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,16:30 - 22:30,6.0
+kristell.campos_ndo.ext@pedidosya.com,francisco.rolon_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,17:00 - 20:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,yorley.guerrero_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,valentina.pardo_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 23:00,2.0
+kristell.campos_ndo.ext@pedidosya.com,sandy.quintero_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-03,,,00:00 - 00:30,0.5
+kristell.campos_ndo.ext@pedidosya.com,mercedes.pinedo_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-03,,,21:00 - 23:30,2.5
+kristell.campos_ndo.ext@pedidosya.com,carlos.nino_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:30 - 00:00,2.5
+kristell.campos_ndo.ext@pedidosya.com,ayne.benavides_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,17:30 - 19:00,1.5
+kristell.campos_ndo.ext@pedidosya.com,jenny.lopez_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,17:30 - 19:00,1.5
+kristell.campos_ndo.ext@pedidosya.com,derlys.almario_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,18:00 - 00:00,6.0
+kristell.campos_ndo.ext@pedidosya.com,diana.pariona_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,jessica.montero_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,19:00 - 00:00,5.0
+kristell.campos_ndo.ext@pedidosya.com,alexandra.mercado_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,karen.centeno_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,21:30 - 00:00,2.5
+kristell.campos_ndo.ext@pedidosya.com,marilyn.salazar_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-02,,,21:30 - 00:00,2.5
+kristell.campos_ndo.ext@pedidosya.com,daniela.achury_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,cristina.sierra_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,21:30 - 23:00,1.5
+kristell.campos_ndo.ext@pedidosya.com,yurley.salazar_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,20:00 - 00:00,4.0
+kristell.campos_ndo.ext@pedidosya.com,francisco.rolon_ndo.ext@pedidosya.com,PS_Content Online,31,2025-08-01,,,21:00 - 00:00,3.0
+kristell.campos_ndo.ext@pedidosya.com,valentina.pardo_ndo.ext@pedidosya.com,PS_Live Chat,31,2025-08-01,,,22:30 - 00:00,1.5
+kristell.campos_ndo.ext@pedidosya.com,Turno por cubrir,PS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,adrian.espinosa_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,15:00 - 22:30,7.5
+francy.espinosa_ndo.ext@pedidosya.com,adrian.espinosa_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,15:00 - 21:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,adriana.florez_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,adriana.florez_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-03,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,adriana.rangel_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,adriana.rangel_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,adriana.velasquez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,09:00 - 16:30,7.5
+francy.espinosa_ndo.ext@pedidosya.com,adriana.velasquez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-03,,,13:00 - 20:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,alberto.lacouture_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,alberto.lacouture_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-03,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,alejandra.camacho_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,alejandra.camacho_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,alexander.ruiz_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,alexander.ruiz_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,alexis.alvarez_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,alexis.alvarez_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,13:45 - 14:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,alexis.ariza_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,alexis.ariza_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,alix.gonzalez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,alix.gonzalez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,alvaro.rueda_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,08:00 - 14:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,alvaro.rueda_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,08:00 - 14:30,6.5
+gonzalo.soto_ndo.ext@pedidosya.com,ana.ausfeld_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,ana.ausfeld_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,ana.rubio_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,ana.rubio_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,anderson.garcia_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,anderson.garcia_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,andres.agueldo_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,andres.agueldo_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-02,,,09:00 - 18:00,9.0
+gonzalo.soto_ndo.ext@pedidosya.com,andres.gonzalez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 00:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,andres.gonzalez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,andres.marroquin_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,14:00 - 16:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,andres.marroquin_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,18:00 - 00:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,andres.telles_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,andres.telles_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,andres.valderrama_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,andres.valderrama_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,20:30 - 00:00,3.5
+gonzalo.soto_ndo.ext@pedidosya.com,angel.villadiego_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:30,2.5
+gonzalo.soto_ndo.ext@pedidosya.com,angel.villadiego_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,angela.clavijo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,angela.clavijo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,angelica.serrano_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,angelica.serrano_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,angey.velasquez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,angie.corena_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-02,,,14:00 - 20:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,angie.corena_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,13:30 - 19:30,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,angie.gaviria_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:45 - 14:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,angie.gaviria_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,angie.henao_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,angie.henao_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,00:00 - 01:30,1.5
+francy.espinosa_ndo.ext@pedidosya.com,anny.lucumi_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,10:00 - 18:30,8.5
+francy.espinosa_ndo.ext@pedidosya.com,anny.lucumi_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,10:00 - 18:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,antonia.pinzon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:30,2.5
+gonzalo.soto_ndo.ext@pedidosya.com,antonia.pinzon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,ariana.guisao_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,ariana.guisao_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,armando.garcia_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,armando.garcia_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,12:00 - 18:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,arnold.acosta_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,arnold.acosta_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-03,,,08:00 - 14:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,aurelys.paz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,aurelys.paz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,belcy.montes_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,belcy.montes_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,10:00 - 18:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,belen.trinidad_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,belen.trinidad_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,gisselle.poveda_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,gisselle.poveda_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,brandon.garcia_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,13:45 - 14:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,brandon.garcia_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,14:00 - 20:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,bryan.mora_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:15 - 13:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,bryan.mora_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:30 - 20:00,6.5
+gonzalo.soto_ndo.ext@pedidosya.com,camila.aguirre_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,camila.aguirre_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,camila.contreras_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,camila.contreras_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-03,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,camila.ortiz_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,13:45 - 14:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,camila.ortiz_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,camilo.echeverri_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,camilo.echeverri_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,camilo.fuentes_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,camilo.fuentes_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,14:00 - 20:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,carlos.gonzalez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,11:45 - 12:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,carlos.gonzalez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,carlos.lindo_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,15:00 - 23:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,carlos.lindo_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,12:00 - 15:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,carlos.torres_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 04:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,carlos.torres_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,carlos.villabona_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 04:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,carlos.villabona_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,carmen.florez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,carmen.florez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,13:00 - 18:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,carolina.jaramillo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,carolina.jaramillo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,carolina.velasco_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,carolina.velasco_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,celeste.poleo_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,celeste.poleo_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,16:00 - 18:30,2.5
+francy.espinosa_ndo.ext@pedidosya.com,cesar.franco_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,cesar.franco_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,cesar.santamaria_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,cesar.santamaria_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,christian.gomez_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,christian.gomez_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-03,,,09:00 - 18:00,9.0
+gonzalo.soto_ndo.ext@pedidosya.com,andrea.pineda_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,13:30 - 19:30,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,andrea.pineda_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,cristian.beleno_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 01:30,1.5
+francy.espinosa_ndo.ext@pedidosya.com,cristian.beleno_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,cristian.david_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,cristian.david_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,damaris.monroy_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,damian.vega_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,damian.vega_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,daniel.almario_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,daniel.almario_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-03,,,10:00 - 17:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,daniel.fuentes_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,19:45 - 20:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,daniel.fuentes_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,09:00 - 14:30,5.5
+francy.espinosa_ndo.ext@pedidosya.com,daniel.quinones_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,daniel.quinones_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,18:00 - 20:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,daniela.sierra_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,daniela.sierra_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,11:00 - 17:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,danna.joya_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,danna.joya_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,19:30 - 00:00,4.5
+gonzalo.soto_ndo.ext@pedidosya.com,dario.duran_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,dario.duran_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,11:45 - 12:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,dario.fonseca_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,dario.fonseca_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,david.agudelo_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,13:45 - 14:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,david.agudelo_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,14:00 - 22:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,david.aguilar_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,david.aguilar_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,david.jaimes_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,david.jaimes_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-03,,,12:00 - 18:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,david.munoz_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,13:00 - 19:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,david.munoz_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,13:00 - 19:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,david.rangel_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,07:45 - 08:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,david.rangel_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,david.rojas_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,david.rojas_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-03,,,19:00 - 00:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,dayana.anaya_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-02,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,dayana.anaya_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,14:00 - 22:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,milena.loaiza_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,milena.loaiza_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,dayana.guevara_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 04:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,dayana.guevara_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,dayanna.becerra_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,08:00 - 16:30,8.5
+francy.espinosa_ndo.ext@pedidosya.com,dayanna.becerra_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,deisy.vigoya_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,deisy.vigoya_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,deivis.montiel_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,deivis.montiel_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,diana.contreras_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 00:30,0.5
+francy.espinosa_ndo.ext@pedidosya.com,diana.contreras_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,diana.milena_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,diana.milena_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,diana.rocha_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,diana.rocha_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,diego.alfonso_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,diego.alfonso_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,diego.fontaines_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,diego.fontaines_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,diego.gonzalez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,diego.gonzalez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,11:00 - 18:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,diego.ortiz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:45 - 14:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,diego.ortiz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,14:00 - 22:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,dora.deleon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,dora.deleon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,duban.patino_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:45 - 14:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,duban.patino_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,duvan.ramos_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,duvan.ramos_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,duver.carrascal_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:30,3.5
+gonzalo.soto_ndo.ext@pedidosya.com,duver.carrascal_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,edilfe.montes_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,edilfe.montes_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+francy.espinosa_ndo.ext@pedidosya.com,eduardo.gomez_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,eduardo.gomez_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,eduardo.leon_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,eduardo.leon_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,edwin.taborda_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 00:30,0.5
+francy.espinosa_ndo.ext@pedidosya.com,edwin.taborda_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,elian.rivera_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,elian.rivera_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,eliseo.villalba_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,14:00 - 22:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,eliseo.villalba_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,elkin.picco_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,elkin.picco_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,elkin.rueda_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,elkin.rueda_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,13:00 - 16:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,elsa.rocha_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,elsa.rocha_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,emmanuel.dusan_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,10:00 - 18:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,emmanuel.dusan_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,12:00 - 16:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,erick.zora_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,15:45 - 16:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,erick.zora_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,erika.mendez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,erika.mendez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,esther.fuentes_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,17:00 - 00:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,esther.fuentes_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,evelin.velasquez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,evelin.velasquez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,evelyn.avila_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,evelyn.avila_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,eymi.gomez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,eymi.gomez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,fanny.castro_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,13:00 - 20:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,fanny.castro_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,21:00 - 23:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.cordero_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,15:00 - 21:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.cordero_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,15:00 - 21:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.durango_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.durango_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.rangel_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.rangel_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,21:30 - 00:00,2.5
+francy.espinosa_ndo.ext@pedidosya.com,felipe.romero_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-02,,,12:30 - 18:30,6.0
+francy.espinosa_ndo.ext@pedidosya.com,felipe.romero_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-03,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,fernanda.sanchez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,fernanda.sanchez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,fernando.ramos_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,fernando.ramos_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,ferney.antolinez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:30,3.5
+gonzalo.soto_ndo.ext@pedidosya.com,ferney.antolinez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,francisco.gimenez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,francisco.gimenez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,fredy.morales_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,fredy.morales_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,gabriela.munoz_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,gabriela.munoz_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,george.gonzalez_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,george.gonzalez_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,11:00 - 12:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,geraldine.poveda_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,16:30 - 00:00,7.5
+francy.espinosa_ndo.ext@pedidosya.com,geraldine.poveda_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,16:30 - 00:00,7.5
+francy.espinosa_ndo.ext@pedidosya.com,gerson.gomez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,gerson.gomez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,giezi.roman_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,giezi.roman_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,gina.delgado_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,gina.delgado_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,gineth.noriega_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,gineth.noriega_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,giovanni.gomez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,giovanni.gomez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,betty.madrigal_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,betty.madrigal_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,17:00 - 21:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,graciela.cabrera_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,graciela.cabrera_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,08:00 - 14:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,gustavo.escorcia_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,gustavo.escorcia_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,hadassa.adechine_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,hadassa.adechine_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,hector.guaramata_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,hector.guaramata_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,hector.prada_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,hector.prada_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,heidy.perea_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,heidy.perea_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 14:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,heiner.pabon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,heiner.pabon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,hendrik.cisneros_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,hendrik.cisneros_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,hernan.tabares_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,hernan.tabares_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,hilda.reguera_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,hilda.reguera_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,Horascubrir,CS_Live Chat,31,2025-08-01,,,21:00 - 22:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,geraldine.cardona_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,15:00 - 23:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,Horascubrir,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,Horascubrir,CS_Across Journey,31,2025-08-01,,,08:00 - 14:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,Horascubrir,CS_Fraude,,2025-08-01,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,Horascubrir,CS_Pago Online,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,Horascubrir,CS_Fraude,,2025-08-03,,,10:00 - 16:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,ibon.meneses_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 01:30,1.5
+francy.espinosa_ndo.ext@pedidosya.com,ibon.meneses_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,indira.polo_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,indira.polo_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,ingrid.cobo_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,ingrid.cobo_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,ingrid.riveros_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,ingrid.riveros_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,isabel.parra_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,isabel.parra_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,isabel.villaquiran_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,isabel.villaquiran_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,isabella.munoz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,09:45 - 10:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,isabella.munoz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,ivan.florez_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,ivan.florez_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-03,,,09:00 - 18:00,9.0
+gonzalo.soto_ndo.ext@pedidosya.com,jacet.jimenez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,09:00 - 17:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,jacet.jimenez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 20:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,jackeline.trujillo_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,jackeline.trujillo_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,19:45 - 20:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,jairo.arenas_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jairo.arenas_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,janin.silva_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,19:45 - 20:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,janin.silva_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,javier.uribe_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,07:45 - 08:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,javier.uribe_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,jazmin.kneup_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,08:00 - 16:30,8.5
+francy.espinosa_ndo.ext@pedidosya.com,jeli.suarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,jeli.suarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,jelin.perez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jelin.perez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-03,,,10:00 - 19:00,9.0
+gonzalo.soto_ndo.ext@pedidosya.com,jennifer.simbaqueba_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,08:00 - 16:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,jennifer.simbaqueba_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,08:00 - 16:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,jenny.gamboa_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,jenny.gamboa_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,16:00 - 20:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,jessica.lopez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,11:45 - 12:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,jessica.lopez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,12:00 - 18:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,jessica.nieves_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,jessica.nieves_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-02,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,jessica.quinones_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,09:00 - 15:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jessica.quinones_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,09:00 - 15:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jesus.valencia_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,jesus.valencia_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-03,,,09:00 - 16:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,jesy.guerrero_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,11:45 - 12:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,jesy.guerrero_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jezareth.rios_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,jezareth.rios_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,jhoana.ubarne_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,jhoana.ubarne_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,jhonatan.gelvez_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,jhonatan.gelvez_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,14:30 - 20:30,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jhovanny.delacruz_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,jhovanny.delacruz_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jiseth.contreras_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jiseth.contreras_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,joana.gomez_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,joana.gomez_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-03,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,johan.garcia_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,10:00 - 17:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,johan.garcia_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,johan.mendoza_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,johan.mendoza_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,jonathan.franco_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,jonathan.franco_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,jonathan.useche_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,jonathan.useche_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+gonzalo.soto_ndo.ext@pedidosya.com,jony.florez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,jony.florez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:15 - 13:30,0.25
+francy.espinosa_ndo.ext@pedidosya.com,jordyn.herrera_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jordyn.herrera_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.arrazola_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.arrazola_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.becerra_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.becerra_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.contreras_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.contreras_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,jorge.donado_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,jorge.donado_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+gonzalo.soto_ndo.ext@pedidosya.com,jorge.gutierrez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,11:00 - 18:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,jorge.gutierrez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,jorge.munoz_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,jose.castellano_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,jose.castellano_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,jose.malave_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,jose.malave_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,09:00 - 17:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.parada_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,15:00 - 23:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.parada_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-03,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,juan.beltran_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,juan.beltran_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,juan.castro_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,juan.castro_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,00:00 - 01:30,1.5
+francy.espinosa_ndo.ext@pedidosya.com,juan.gonzalez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,12:00 - 19:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,juan.quinto_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,13:00 - 21:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,juan.quinto_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,11:00 - 19:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,juana.soler_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,juana.soler_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,julian.cuervo_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,julian.monroy_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,julian.monroy_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,julian.monsalve_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,julian.monsalve_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,juliana.arias_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,09:00 - 15:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,juliana.arias_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,09:00 - 17:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,juliana.ochoa_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,juliana.ochoa_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,09:45 - 10:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,juliett.ortiz_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,juliett.ortiz_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.corredor_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,,0.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.corredor_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,jose.sequera_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,jose.sequera_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-03,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.quiroga_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.quiroga_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.rueda_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,00:00 - 00:30,0.5
+francy.espinosa_ndo.ext@pedidosya.com,karen.rueda_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,tatiana.hernandez_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.sanchez_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.suarez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,karen.suarez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,karen.vargas_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,karen.vargas_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,16:00 - 00:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,karin.gomez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,karin.gomez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,karina.pertuz_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 17:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,karina.pertuz_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,karina.vega_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-02,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,karina.vega_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-03,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,karlen.lopez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,karlen.lopez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-03,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,karol.parra_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,19:45 - 20:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,karol.parra_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,katerin.tavera_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,katerin.tavera_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-03,,,09:00 - 17:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,katherine.torres_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,katherine.torres_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-03,,,08:00 - 14:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,katherym.acosta_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:30,2.5
+gonzalo.soto_ndo.ext@pedidosya.com,katherym.acosta_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,katia.riano_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-03,,,13:30 - 18:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,keila.diaz_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,keiry.pena_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,keiry.pena_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,kelly.torres_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,kelly.torres_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,kevyn.ramos_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,kevyn.ramos_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,kimberly.cardenas_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,kimberly.cardenas_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,kiven.soto_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,kiven.soto_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.mendez_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.mendez_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.rugeles_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.rugeles_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.sierra_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,19:00 - 00:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.sierra_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.sierra_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-03,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.velasquez_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,laura.velasquez_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,leida.orosco_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,leida.orosco_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,leidy.antolinez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,leidy.antolinez_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,leidy.berrio_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-01,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,leidy.berrio_ndo.ext@pedidosya.com,CS_Overnight,31,2025-08-02,,,02:00 - 08:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,leidy.narvaez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 01:30,1.5
+francy.espinosa_ndo.ext@pedidosya.com,leidy.narvaez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,leydi.suarez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:15 - 13:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,leydi.suarez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:30 - 19:30,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,licette.camacho_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,licette.camacho_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,likny.bernate_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,likny.bernate_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,liliana.gonzalez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,liliana.gonzalez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 18:15,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,liliana.rojas_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,16:00 - 00:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,liliana.rojas_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,lilibeth.urango_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,lilibeth.urango_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,lina.garcia_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,lina.garcia_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,18:00 - 00:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,lina.puentes_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,lina.puentes_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,linda.diaz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,linda.diaz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,linda.polo_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 00:30,0.5
+francy.espinosa_ndo.ext@pedidosya.com,linda.polo_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,linsey.rueda_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,08:00 - 16:30,8.5
+francy.espinosa_ndo.ext@pedidosya.com,linsey.rueda_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,18:00 - 00:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,lizeth.guerrero_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,15:45 - 16:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,lizeth.guerrero_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,lizeth.tocaria_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,14:30 - 21:30,7.0
+francy.espinosa_ndo.ext@pedidosya.com,lizeth.tocaria_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,14:30 - 20:00,5.5
+gonzalo.soto_ndo.ext@pedidosya.com,lizeth.wilches_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,lizeth.wilches_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,lleraldin.sanchez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,lleraldin.sanchez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,logan.quinonez_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,14:30 - 21:30,7.0
+francy.espinosa_ndo.ext@pedidosya.com,logan.quinonez_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,14:30 - 20:00,5.5
+gonzalo.soto_ndo.ext@pedidosya.com,loraine.henao_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,17:00 - 20:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,loraine.henao_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,lorena.estrada_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,lorena.estrada_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,lucas.bisceglia_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,15:00 - 22:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,lucas.bisceglia_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,15:00 - 21:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,luis.albarracin_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,luis.albarracin_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-03,,,13:00 - 19:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,luisa.fajardo_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,luisa.fajardo_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,luisa.rozo_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-02,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,luisa.torres_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,luisa.torres_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-03,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,luz.cruz_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,09:30 - 16:00,6.5
+francy.espinosa_ndo.ext@pedidosya.com,luz.cruz_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,09:30 - 16:00,6.5
+gonzalo.soto_ndo.ext@pedidosya.com,luz.durango_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:30 - 19:30,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,luz.durango_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,luz.perez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,luz.perez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,14:00 - 21:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,luzstella.florez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,17:00 - 20:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,luzstella.florez_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,maicol.chacon_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,19:30 - 00:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,maicol.chacon_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,maira.montes_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,17:00 - 00:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,maira.montes_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,17:00 - 00:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,manuel.martinez_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,manuel.martinez_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,marcela.navas_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,marcela.navas_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,marcela.rivas_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,marcela.rivas_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-03,,,08:00 - 15:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,fabian.acosta_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,07:45 - 08:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,fabian.acosta_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,08:00 - 16:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,maria.acosta_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,maria.acosta_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,maria.buitrago_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,maria.buitrago_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,maria.camacho_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,maria.camacho_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,maria.espejo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,maria.espejo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,maria.salcedo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,maria.salcedo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,mariah.mejia_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,19:00 - 00:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,mariah.mejia_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,12:00 - 19:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,marlene.gamboa_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,marlene.gamboa_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,marlon.ospina_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,marlon.ospina_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,marlon.tafur_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 00:30,0.5
+francy.espinosa_ndo.ext@pedidosya.com,marlon.tafur_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,martha.alvarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,martha.alvarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,13:00 - 16:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,martha.guevara_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,martha.guevara_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-02,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,mary.espeleta_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,mary.espeleta_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,mary.robles_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,mary.robles_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,mauricio.garcia_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,11:45 - 12:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,mauricio.garcia_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,mauricio.moreno_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,mauricio.moreno_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,maycol.rivero_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,maycol.rivero_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,mayra.cubides_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 00:30,0.5
+francy.espinosa_ndo.ext@pedidosya.com,mayra.cubides_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,mayra.diaz_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,mayra.diaz_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 14:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,mayra.mantilla_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,mayra.mantilla_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-03,,,14:00 - 22:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,mayra.romero_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:30 - 20:00,6.5
+gonzalo.soto_ndo.ext@pedidosya.com,mayra.romero_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,melany.martinez_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,melany.martinez_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-03,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,meyle.jaramillo_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,meyle.jaramillo_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,michael.alvarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,michael.alvarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,08:00 - 15:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,michel.mogollon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,michel.mogollon_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,michelle.castro_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,michelle.castro_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,13:00 - 18:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,miguel.camacho_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,miguel.camacho_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+francy.espinosa_ndo.ext@pedidosya.com,miguel.garrido_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,11:00 - 18:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,milena.arias_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,11:00 - 19:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,dayana.balza_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 20:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,mirko.remigio_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,13:45 - 14:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,mirko.remigio_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,14:00 - 22:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,monica.lizarazo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,monica.lizarazo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,monica.palacio_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,monica.palacio_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,08:00 - 15:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,monica.tejada_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,monica.tejada_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,natalia.arangure_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,natalia.arangure_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,13:00 - 18:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,fabian.aldana_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,08:00 - 16:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,fabian.aldana_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,natalia.carreno_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,natalia.carreno_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-03,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,nathaly.galvis_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,nathaly.galvis_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,naty.portacio_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,naty.portacio_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,nelsimar.tovar_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,nelsimar.tovar_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,nelson.castillo_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,13:00 - 20:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,nelson.castillo_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,neyda.ortiz_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,07:45 - 08:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,neyda.ortiz_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,08:00 - 14:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,nicol.camargo_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,nicol.camargo_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,nicolas.hernandez_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,nicolas.hernandez_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,nohemy.pereira_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-02,,,09:00 - 13:30,4.5
+gonzalo.soto_ndo.ext@pedidosya.com,nubia.puerto_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,08:00 - 13:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,nubia.puerto_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,olenka.padilla_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,08:45 - 09:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,olenka.padilla_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 02:00,2.0
+gonzalo.soto_ndo.ext@pedidosya.com,omar.carmona_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,omar.carmona_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,onella.guerra_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,11:00 - 14:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,onella.guerra_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-03,,,08:00 - 14:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,orlando.barragan_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,orlando.barragan_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,oscar.pinto_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,oscar.pinto_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,paola.ortiz_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,08:00 - 16:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,paola.ortiz_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,08:00 - 16:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,paula.pulido_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,paula.pulido_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,rafael.fonseca_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,rafael.fonseca_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-03,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,rafael.rossi_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,rafael.rossi_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,rafael.salamanca_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,randy.cuello_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,13:00 - 20:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,randy.cuello_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,14:00 - 20:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,renier.sandoval_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,renier.sandoval_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,00:00 - 00:30,0.5
+gonzalo.soto_ndo.ext@pedidosya.com,robert.quiroga_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,robert.quiroga_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,rocio.acelas_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,rocio.acelas_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,17:00 - 00:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,ruth.rodriguez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,ruth.rodriguez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,saira.sarge_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,saira.sarge_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,18:00 - 00:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,samantha.yactayo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:45 - 14:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,samantha.yactayo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,samuel.campos_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,13:00 - 20:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,samuel.campos_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-03,,,13:30 - 21:00,7.5
+gonzalo.soto_ndo.ext@pedidosya.com,sandra.alvarez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,sandra.alvarez_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,sandra.castillo_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,santiago.ayala_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,10:00 - 16:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,santiago.ayala_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,sara.metaute_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,sara.metaute_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,12:00 - 18:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,sara.rangel_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,09:00 - 17:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,sara.rangel_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,sarai.movilla_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,sarai.movilla_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,sebastian.cortes_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,sebastian.cortes_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,12:00 - 20:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,sebastian.dominguez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,sebastian.dominguez_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,sebastian.osma_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,sebastian.osma_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,sergio.lozano_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,sergio.lozano_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,shirley.meneses_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,shirley.meneses_ndo.ext@pedidosya.com,CS_Outliers,31,2025-08-02,,,13:30 - 18:00,4.5
+francy.espinosa_ndo.ext@pedidosya.com,silvia.acosta_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 14:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,silvia.acosta_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,13:00 - 18:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,silvia.barragan_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-01,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,silvia.barragan_ndo.ext@pedidosya.com,CS_Invoice Missing,31,2025-08-02,,,14:00 - 22:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,sleiman.cardona_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,14:00 - 21:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,sleiman.cardona_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,08:00 - 15:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,solvey.camargo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,solvey.camargo_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,sonia.abril_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,sonia.abril_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,sonia.diaz_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,sonia.diaz_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,sorayda.gonzalez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,08:00 - 16:30,8.5
+francy.espinosa_ndo.ext@pedidosya.com,sorayda.gonzalez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,08:00 - 16:30,8.5
+francy.espinosa_ndo.ext@pedidosya.com,steven.ortiz_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,steven.ortiz_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,susana.arango_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,12:00 - 18:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,susana.arango_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-03,,,12:00 - 18:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,tania.maldonado_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,tania.maldonado_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,tania.morales_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 17:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,tania.morales_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-03,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,tania.seiza_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,15:45 - 16:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,tania.seiza_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,tatiana.ardila_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,tatiana.ardila_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,08:45 - 09:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,tatiana.guerrero_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,tatiana.guerrero_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,11:00 - 18:00,7.0
+gonzalo.soto_ndo.ext@pedidosya.com,tatiana.vega_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,tatiana.vega_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,12:00 - 16:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,valentina.leiva_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-01,,,12:00 - 15:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,xiomara.nova_ndo.ext@pedidosya.com,CS_Social Media,31,2025-08-03,,,16:00 - 23:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,valentina.vasquez_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,valentina.vasquez_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,17:00 - 18:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,valeria.ruiz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:15 - 19:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,valeria.ruiz_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:30 - 00:00,4.5
+gonzalo.soto_ndo.ext@pedidosya.com,wilder.manrique_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,08:00 - 16:00,8.0
+gonzalo.soto_ndo.ext@pedidosya.com,wilder.manrique_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,11:00 - 16:00,5.0
+gonzalo.soto_ndo.ext@pedidosya.com,wilder.rojas_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,19:45 - 20:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,wilder.rojas_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:00 - 00:00,4.0
+gonzalo.soto_ndo.ext@pedidosya.com,willian.damian_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,00:00 - 03:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,willian.damian_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,wilmer.loaiza_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,08:00 - 14:30,6.5
+francy.espinosa_ndo.ext@pedidosya.com,wilmer.loaiza_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,wilmer.vargas_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,wilmer.vargas_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,wilson.velasquez_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-02,,,15:00 - 21:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,wilson.velasquez_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,11:00 - 17:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,xavier.arias_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,xavier.arias_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,ximena.garcia_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,09:00 - 17:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,ximena.garcia_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-03,,,09:00 - 15:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,yadys.guerrero_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,yadys.guerrero_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,yamile.bohorquez_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,15:45 - 16:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,yamile.bohorquez_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yaquelin.osorio_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yaquelin.osorio_ndo.ext@pedidosya.com,CS_PDI,31,2025-08-02,,,00:00 - 01:30,1.5
+gonzalo.soto_ndo.ext@pedidosya.com,yeison.vargas_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,16:00 - 22:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,yeison.vargas_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-03,,,16:00 - 20:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,yenelis.leon_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 18:00,9.0
+francy.espinosa_ndo.ext@pedidosya.com,yenelis.leon_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,10:00 - 18:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yenifer.gomez_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,yenifer.gomez_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,yenifer.soto_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-01,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yenifer.soto_ndo.ext@pedidosya.com,CS_Recovery,31,2025-08-02,,,00:00 - 01:00,1.0
+francy.espinosa_ndo.ext@pedidosya.com,yenny.garcia_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,,0.0
+francy.espinosa_ndo.ext@pedidosya.com,yenny.garcia_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,,0.0
+francy.espinosa_ndo.ext@pedidosya.com,yeraldid.alvarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,yeraldid.alvarez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0
+gonzalo.soto_ndo.ext@pedidosya.com,yeraldin.cortes_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-01,,,12:30 - 20:00,7.5
+gonzalo.soto_ndo.ext@pedidosya.com,yeraldin.cortes_ndo.ext@pedidosya.com,CS_Pago Online Offline,31,2025-08-02,,,12:00 - 17:00,5.0
+francy.espinosa_ndo.ext@pedidosya.com,yeris.veloza_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,yeris.veloza_ndo.ext@pedidosya.com,CS_Across Journey Offline,31,2025-08-01,,,18:00 - 00:00,6.0
+francy.espinosa_ndo.ext@pedidosya.com,yerson.fontecha_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,15:30 - 19:30,4.0
+francy.espinosa_ndo.ext@pedidosya.com,yerson.fontecha_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-01,,,20:30 - 23:00,2.5
+francy.espinosa_ndo.ext@pedidosya.com,yesid.reyes_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,19:45 - 20:00,0.25
+francy.espinosa_ndo.ext@pedidosya.com,yesid.reyes_ndo.ext@pedidosya.com,CS_Pago Online,31,2025-08-01,,,20:00 - 00:00,4.0
+francy.espinosa_ndo.ext@pedidosya.com,yisel.sandoval_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-01,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,yisel.sandoval_ndo.ext@pedidosya.com,CS_Legales,31,2025-08-02,,,09:00 - 16:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,yony.duran_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-02,,,16:00 - 00:00,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yony.duran_ndo.ext@pedidosya.com,CS_Across Journey,31,2025-08-03,,,00:00 - 01:00,1.0
+gonzalo.soto_ndo.ext@pedidosya.com,yuddy.villanueva_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:15 - 13:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,yuddy.villanueva_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:30 - 19:30,6.0
+francy.espinosa_ndo.ext@pedidosya.com,yulieth.gonzalez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-02,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yulieth.gonzalez_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-03,,,13:30 - 21:30,8.0
+francy.espinosa_ndo.ext@pedidosya.com,yuly.gamboa_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-01,,,13:00 - 20:00,7.0
+francy.espinosa_ndo.ext@pedidosya.com,yuly.gamboa_ndo.ext@pedidosya.com,CS_PDI Offline,31,2025-08-02,,,14:00 - 20:00,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,yuly.rocha_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:15 - 13:30,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,yuly.rocha_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,13:30 - 19:30,6.0
+gonzalo.soto_ndo.ext@pedidosya.com,yurley.rey_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,20:45 - 21:00,0.25
+gonzalo.soto_ndo.ext@pedidosya.com,yurley.rey_ndo.ext@pedidosya.com,CS_Live Chat,31,2025-08-01,,,21:00 - 00:00,3.0
+francy.espinosa_ndo.ext@pedidosya.com,zaira.rangel_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,00:00 - 02:00,2.0
+francy.espinosa_ndo.ext@pedidosya.com,zaira.rangel_ndo.ext@pedidosya.com,CS_Fraude,31,2025-08-01,,,21:00 - 00:00,3.0

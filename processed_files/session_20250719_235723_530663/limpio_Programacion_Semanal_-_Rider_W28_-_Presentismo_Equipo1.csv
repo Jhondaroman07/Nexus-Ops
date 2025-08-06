@@ -1,0 +1,697 @@
+SM,agent_email,LOB,Week,fecha,Inicio_Turno,Salida_Turno,Horario_Roster,Inicio_Break,Fin_Break,Condicion_break,Asistencia,Estado,Novedades,Observaciones,Presenta_soporte,Ausencia_Cubierta,Observaciones_ausencia,Tipo_Gestion,BPO,Experiencia_CRM,Total_horas,Inicio_Break_Prog,Fin_Break_Prog,Tiempo_Break,Segundo_Break
+yairlyn.fuentes_ndo.ext@pedidosya.com, felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,05:00 - 08:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,05:00 - 08:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,00:00 - 00:30,,,,True,,,,,,,,XTENDO,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,09:30 - 15:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,00:00 - 00:30,,,,True,,,,,,,,XTENDO,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,00:00 - 00:30,,,,True,,,,,,,,XTENDO,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,02:00 - 05:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,02:00 - 05:00,,,,True,,Cambio de turno,anderson.gonzalez_ndo.ext@pedidosya.com,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-11,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 05:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,04:30 - 08:00,,,,True,,Cambio de turno,angie.giraldo_ndo.ext@pedidosya.com,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-11,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-11,,,04:30 - 08:00,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 05:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,05:00 - 08:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-11,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 05:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,02:00 - 05:00,,,,False,Ausente,AI,,No,Si,Sin internet,,XTENDO,,3.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,16:30 - 17:30,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,15:30 - 16:30,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,10:30 - 11:30,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,21:30 - 22:30,,,,False,Ausente,Cambio de turno,,,,esteban.santos_ndo.ext@pedidosya.com,,XTENDO,,1.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-09,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,19:30 - 23:00,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,17:00 - 18:30,,,,False,Ausente,AJ,sin internet,Si,Si,,,XTENDO,,1.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,18:00 - 18:30,,,,True,,Cubre ausencia,daniel.rua_ndo.ext@pedidosya.com,,,,,,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-09,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,09:30 - 15:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,13:30 - 15:00,,,,True,Ausente,CTT,,,,malorin.henao_ndo.ext@pedidosya.com,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,09:30 - 15:30,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,20:00 - 23:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,00:00 - 02:00,,,,True,,Cambio de turno,,,,sebastian.arango_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,20:00 - 23:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,17:00 - 19:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,15:30 - 17:00,,,,True,,,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-09,,,02:00 - 05:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,17:30 - 19:00,,,,True,,,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,17:30 - 19:30,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,20:00 - 23:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,17:00 - 20:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,13:00 - 14:30,,,,True,,RI,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,17:30 - 18:30,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,18:30 - 00:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,19:00 - 20:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,13:30 - 16:00,,,,True,,,,,,,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,03:00 - 05:00,,,,True,,Cubre ausencia,,,,giuliana.alvarez_ndo.ext@pedidosya.com,,,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-09,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,13:00 - 16:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,13:00 - 16:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,19:30 - 22:00,,,,False,Ausente,CTT,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,20:00 - 22:00,,,,False,Ausente,CTT,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,21:00 - 23:30,,,,True,,CTP,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,15:00 - 16:30,,,,True,,,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,12:00 - 17:30,,,,True,,Cambio de turno,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,07:45 - 08:00,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,07:45 - 08:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-09,,,04:30 - 08:00,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,07:45 - 08:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,19:30 - 21:30,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,16:30 - 19:30,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,22:00 - 23:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:30 - 20:00,,,,True,,,,,,,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,16:30 - 20:00,,,,True,,,,,,,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,10:00 - 13:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,10:00 - 13:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,10:00 - 13:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,09:30 - 12:00,,,,True,,,,,,,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,16:00 - 18:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,21:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,19:30 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,22:00 - 23:30,,,,True,,,,,,,RS Document Review,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 15:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,16:30 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,22:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,21:00 - 23:30,,,,True,,,,,,,RS Document Review,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,22:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,16:30 - 19:30,,,,True,,,,,,,TMS,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,21:00 - 00:00,,,,True,,,,,,,TMS,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,22:00 - 23:00,,,,True,,,,,,,TMS,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,14:00 - 15:00,,,,True,,CTP,,,,luciana.merlano_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 18:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 15:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,11:30 - 15:00,,,,True,,CTP,,,,kiatusca.reyes_ndo.ext@pedidosya.com,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,20:00 - 23:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 16:00,,,,True,,,,,,,,XTENDO,,8.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 17:00,,,,True,,,,,,,TMS,XTENDO,,9.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,16:30 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,17:00 - 23:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 17:00,,,,True,,,,,,,RS Document Review,XTENDO,,9.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,21:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,16:30 - 18:30,,,,True,,CTP,,,,eliana.ochoa_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,09:00 - 12:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,09:00 - 16:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,09:30 - 14:00,,,,True,,,,,,,TMS,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,18:30 - 00:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:00 - 17:00,,,,True,,,,,,,TMS,XTENDO,,9.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:45 - 09:00,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,16:00 - 19:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,21:00 - 00:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,23:00 - 00:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,21:30 - 23:00,,,,True,,,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,21:00 - 23:30,,,,True,,,,,,,RS Document Review,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,08:45 - 09:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,09:00 - 12:30,,,,True,,,,,,,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,09:30 - 12:00,,,,True,,,,,,,RS Document Review,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,19:30 - 21:30,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 17:30,,,,True,,,,,,,TMS,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,21:00 - 00:00,,,,True,,,,,,,TMS,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,21:00 - 23:30,,,,False,Ausente,CTT,,,,chirlies.freites_ndo.ext@pedidosya.com,TMS,XTENDO,,2.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,09:30 - 17:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,19:30 - 21:30,,,,True,,,,,,,TMS,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,10:00 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,10:00 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:30 - 19:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:30 - 19:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,10:00 - 13:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,16:30 - 18:30,,,,True,,,,,,,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,21:00 - 22:30,,,,True,,,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,13:15 - 13:30,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,21:00 - 22:30,,,,True,,,,,,,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,08:00 - 08:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,09:30 - 13:30,,,,True,,,,,,,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,10:45 - 11:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,05:00 - 05:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,09:30 - 14:30,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,18:15 - 18:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,08:00 - 08:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:15 - 09:30,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:15 - 16:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,10:15 - 10:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,08:00 - 08:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,09:30 - 15:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,05:00 - 05:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Ausente,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,09:30 - 16:30,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,08:00 - 10:00,,,,True,,CA,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,19:45 - 20:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,08:00 - 08:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,09:30 - 16:00,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:45 - 09:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:15 - 16:30,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,11:45 - 12:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Ausente,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,16:45 - 17:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:15 - 16:30,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:45 - 16:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,19:15 - 19:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:15 - 09:30,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,09:30 - 16:30,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,18:45 - 19:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,20:00 - 22:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Training,,lectura,,,llega 5 minutos tarde,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,18:45 - 19:00,,,,False,Training,,lectura,,,,,XTENDO,,0.25,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,14:45 - 15:00,,,,True,Training,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,19:00 - 00:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:15 - 09:30,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,00:00 - 02:00,,,,False,Ausente,CTT,,,,manuela.lopez_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,07:45 - 08:00,,,,True,Ausente,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Ausente,,lectura,,,,TMS,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:15 - 09:30,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,19:00 - 00:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,19:15 - 19:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,11:00 - 17:30,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-07,,,05:00 - 05:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,07:45 - 08:00,,,,True,Ausente,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,12:00 - 15:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:45 - 10:00,,,,True,Training,,lectura,,,,RS Document Review,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,10:15 - 10:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,10:00 - 11:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,12:00 - 15:00,,,,True,,CTP,,,,felipe.samper_ndo.ext@pedidosya.com,TMS,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 18:00,,,,True,,,,,,,TMS,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 19:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,10:00 - 13:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,02:00 - 05:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,05:30 - 08:00,,,,False,Ausente,AI,,,Si,agente abandona gestion / giuliana.alvarez_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-08,,,05:30 - 08:00,,,,True,,Cubre ausencia,,,,giuliana.alvarez_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:00 - 16:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,10:00 - 18:30,,,,True,,,,,,,RS Document Review,XTENDO,,8.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,19:30 - 21:30,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:30 - 13:30,,,,True,,,,,,,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,10:00 - 14:30,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,10:30 - 16:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,10:30 - 16:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,12:00 - 17:30,,,,False,Ausente,CTT,,,,yurany.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,5.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,19:30 - 23:00,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,22:00 - 00:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,13:30 - 21:00,,,,True,,,,,,,TMS,XTENDO,,7.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 19:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,8.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 20:30,,,,True,,,,,,,RS Document Review,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:00 - 20:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,11:00 - 12:00,,,,True,,,,,,,TMS,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,12:00 - 15:00,,,,True,,CA,,,,luz.garces_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,12:00 - 17:00,,,,True,,,,,,,TMS,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,11:00 - 14:00,,,,True,,CA,,,,yacomar.ortiz_ndo.ext@pedidosya.com,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,20:00 - 23:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,16:30 - 22:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,19:00 - 23:00,,,,False,Ausente,AJ,,,,Problemas con okta,,XTENDO,,4.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,20:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,12:00 - 17:30,,,,True,,Cambio de turno,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,20:00 - 00:00,,,,True,Ausente,CTT,,,,julian.arenas_ndo.ext@pedidosya.com,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 06:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 06:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,giuliana.alvarez_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-12,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-11,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-13,,,02:00 - 08:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,00:00 - 02:00,,,,False,Ausente,CTT,,,,manuela.lopez_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,12:00 - 19:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,12:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,9.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,20:00 - 00:00,,,,True,,CA,,,,felipe.samper_ndo.ext@pedidosya.com,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,14:00 - 18:30,,,,False,Ausente,CTT,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,4.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,14:00 - 19:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,19:00 - 00:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,19:00 - 00:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,14:00 - 19:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,18:30 - 00:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,12:30 - 16:00,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,20:00 - 21:00,,,,True,Training,,,,,Feedback,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,13:30 - 21:00,,,,True,,,,,,,TMS,XTENDO,,7.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,10:00 - 14:00,,,,True,,CTP,,,,angie.gafaro_ndo.ext@pedidosya.com,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,12:30 - 14:00,,,,False,Ausente,CTP,,,,yacomar.ortiz_ndo.ext@pedidosya.com y miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,1.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,12:30 - 14:00,,,,True,,Cubre ausencia,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,21:00 - 23:30,,,,True,,,,,,,RS Document Review,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,17:45 - 18:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,14:00 - 14:15,,,,False,Training,,lectura,,,,,XTENDO,,0.25,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,12:00 - 18:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,12:00 - 18:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,12:00 - 18:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,12:00 - 18:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,12:00 - 18:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,08:00 - 14:00,,,,True,,,,,,, ,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,12:00 - 14:00,,,,False,Ausente,CTP,,,,manuela.lopez_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,13:00 - 14:00,,,,True,,Cubre ausencia,,,,esteban.santos_ndo.ext@pedidosya.com,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,18:00 - 20:30,,,,True,,CTP,,,,sara.graciano_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,18:30 - 20:30,,,,True,,CTP,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,18:30 - 00:00,,,,True,,CTP,,,,yacomar.ortiz_ndo.ext@pedidosya.com,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,17:30 - 22:00,,,,True,,CTP,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,21:30 - 22:30,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,16:00 - 20:00,,,,True,,CTP,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,14:00 - 17:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,14:00 - 18:30,,,,False,Ausente,CTT,,,,maribel.escobar_ndo.ext@pedidosya.com,,XTENDO,,4.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,13:00 - 15:30,,,,True,,CTP,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,13:00 - 15:30,,,,True,,CTP,,,,jaimar.gonzalez_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,09:30 - 15:30,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,14:00 - 18:30,,,,True,,CA,,,,manuela.lopez_ndo.ext@pedidosya.com,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,12:00 - 18:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,08:00 - 11:00,,,,True,,CTP,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,13:45 - 14:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,09:30 - 16:00,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,09:30 - 14:00,,,,True,,CTP,,,,manuela.lopez_ndo.ext@pedidosya.com,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,09:30 - 16:00,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,17:30 - 00:00,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,15:00 - 17:00,,,,True,,CA,,,,luz.garces_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,15:00 - 18:00,,,,True,,CA,,,,luciana.merlano_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,07:45 - 08:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,14:00 - 20:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,07:45 - 08:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,11:45 - 12:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,19:45 - 20:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,13:45 - 14:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,15:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,8.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,14:00 - 17:00,,,,True,,CTP,,,,esteban.santos_ndo.ext@pedidosya.com,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,13:45 - 14:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,14:00 - 17:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,13:45 - 14:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,15:00 - 23:30,,,,True,,,,,,,RS Document Review,XTENDO,,8.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,19:00 - 20:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,14:00 - 18:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,18:30 - 00:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,17:00 - 23:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,17:00 - 23:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,16:00 - 19:30,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,19:30 - 23:30,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,19:00 - 00:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,18:30 - 23:30,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,19:00 - 22:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,13:00 - 18:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,14:00 - 20:30,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,21:00 - 22:30,,,,True,,,,,,Horas WFM.,,,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,16:30 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,13:00 - 17:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,16:30 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,12:00 - 17:30,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,21:00 - 00:00,,,,True,,Cambio de turno,,,,sebastian.arango_ndo.ext@pedidosya.com,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,16:30 - 20:00,,,,True,,,,,,,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,12:00 - 17:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,19:30 - 20:00,,,,True,,,,,,,,XTENDO,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,20:00 - 23:30,,,,False,Ausente,AJ,Fallos con el internet,Si,Si,,,,,3.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,21:00 - 23:30,,,,True,,Cubre ausencia,luisa.vargas_ndo.ext@pedidosya.com,,,,,,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,19:30 - 20:00,,,,False,Ausente,AJ,,,No,Se cruza turno.,,,,0.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,16:30 - 22:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,11:00 - 12:00,,,,True,Training,,,,,Feedback,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,08:00 - 14:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,19:30 - 23:30,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,16:45 - 17:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,18:00 - 00:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,18:00 - 20:00,,,,True,Training,,feedback monitoreo,,,,,,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,18:30 - 00:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,19:30 - 20:00,,,,True,,CTP,,,,gloria.hernandez_ndo.ext@pedidosya.com,,XTENDO,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,17:00 - 00:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,14:00 - 18:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,12:00 - 17:30,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,18:30 - 23:30,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,10:30 - 16:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,10:30 - 16:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,17:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,00:00 - 02:00,,,,False,Ausente,CTT,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,12:00 - 14:00,,,,True,,Cambio de turno,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,20:00 - 22:30,,,,True,,CTP,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,19:30 - 23:30,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,00:00 - 02:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,18:15 - 18:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,09:15 - 09:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,19:15 - 19:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,07:45 - 08:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,17:00 - 18:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,15:00 - 22:30,,,,True,,,,,,,TMS,XTENDO,,7.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,17:00 - 19:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,00:00 - 01:00,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,17:00 - 21:00,,,,True,,CTP,,,,valentina.bran_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,17:30 - 23:30,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,19:30 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,09:00 - 15:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,20:00 - 00:00,,,,True,,CTP,,,,yacomar.ortiz_ndo.ext@pedidosya.com,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,15:00 - 22:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,19:00 - 23:00,,,,True,,Cubre ausencia,,,,martha.echeverri_ndo.ext@pedidosya.com,,,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,18:00 - 19:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,16:30 - 21:30,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,16:30 - 21:30,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,18:00 - 20:00,,,,True,Ausente,CTT,,,,valentina.bran_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,False,Ausente,CTT,,,,kiatusca.reyes_ndo.ext@pedidosya.com,TMS,XTENDO,,7.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 22:00,,,,True,,Cambio de turno,,,,felipe.samper_ndo.ext@pedidosya.com,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,18:00 - 20:00,,,,True,,CA,,,,luciana.merlano_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,15:00 - 22:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,18:30 - 00:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,False,Ausente,CTT,,,,leidy.villamizar_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,7.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,16:00 - 18:30,,,,True,,,,,,,RS Document Review,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,16:00 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,21:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,18:30 - 20:30,,,,True,,CA,,,,manuela.lopez_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,16:00 - 00:00,,,,True,,,,,,,TMS,XTENDO,,8.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,08:00 - 15:00,,,,True,,Cambio de turno,,,,david.camargo_ndo.ext@pedidosya.com,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,00:00 - 01:00,,,,False,Ausente,AJ,,Si,,No llega al turno ,TMS,XTENDO,,1.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,16:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,8.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,09:30 - 13:00,,,,True,,CA,,,,sara.graciano_ndo.ext@pedidosya.com,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,20:30 - 00:00,,,,True,,CA,,,,jaimar.gonzalez_ndo.ext@pedidosya.com,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 19:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,14:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,16:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,19:00 - 00:00,,,,True,,,,,,,,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:30,,,,True,,,,,,,,XTENDO,,7.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 21:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,19:30 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,14:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,16:30 - 20:00,,,,True,,,,,,,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angelica.leguizamon_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,19:00 - 21:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,14:30 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,17:00 - 20:00,,,,True,,,,,,,TMS,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,00:00 - 01:00,,,,True,,,,,,,TMS,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,19:30 - 00:00,,,,True,,,,,,,TMS,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,14:30 - 20:00,,,,True,,,,,,,TMS,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,17:30 - 18:30,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,19:00 - 21:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,16:30 - 19:00,,,,True,,,,,,WFM,TMS,,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,19:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,19:00 - 23:30,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,22:00 - 22:30,,,,False,Ausente,CTP,,No,,eliana.ochoa_ndo.ext@pedidosya.com // No llega al turno,RS Document Review,XTENDO,,0.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,22:00 - 22:30,,,,True,,Cubre ausencia,,,,leidy.villamizar_ndo.ext@pedidosya.com,,,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,00:00 - 01:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,20:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,19:00 - 22:30,,,,False,Ausente,CTT,,,,julian.arenas_ndo.ext@pedidosya.com,TMS,XTENDO,,3.5,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 19:30,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,16:00 - 21:00,,,,False,Ausente,AJ,Sin energia.,Si,Si,,,XTENDO,,5.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,16:30 - 21:00,,,,True,,Cubre ausencia,luis.pazos_ndo.ext@pedidosya.com,,,,,,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,14:30 - 20:00,,,,True,,,,,,,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,20:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,19:30 - 00:00,,,,True,,,,,,,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 21:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 20:00,,,,True,,,,,,,RS Document Review,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,20:00 - 00:00,,,,True,,,,,,,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,19:45 - 20:00,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 22:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,20:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,20:00 - 00:00,,,,True,,,,,,,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,13:30 - 14:30,,,,False,Training,,,,,Feedback,,,,1.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,09:00 - 16:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,09:00 - 16:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 21:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,20:00 - 22:00,,,,True,Training,,,,,Feedback,,,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,09:00 - 15:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,20:00 - 00:00,,,,True,,,,,,,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,False,Ausente,CTT,,,,david.camargo_ndo.ext@pedidosya.com,TMS,XTENDO,,7.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,08:00 - 14:30,,,,True,,,,,,,,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,21:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,20:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:00 - 21:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,15:00 - 22:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,20:15 - 20:30,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,15:00 - 22:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 19:30,,,,True,,,,,,,TMS,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-09,,,20:30 - 00:00,,,,True,,Cambio de turno,,,,sebastian.arango_ndo.ext@pedidosya.com,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,09:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,08:00 - 14:30,,,,True,,,,,,,TMS,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,21:00 - 00:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,09:00 - 15:30,,,,True,,CTP,,,,luz.pineda_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,09:30 - 16:30,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 21:00,,,,True,,,,,,,,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,09:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,00:00 - 01:00,,,,True,,Cubre ausencia,,,,felipe.samper_ndo.ext@pedidosya.com,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,09:00 - 15:00,,,,True,,,,,,,TMS,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,08:00 - 14:30,,,,True,,,,,,,TMS,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,21:30 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,,,,,,,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,08:00 - 14:30,,,,True,,,,,,,RS Document Review,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,11:00 - 16:00,,,,True,,CTP,,,,luciana.merlano_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,5.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,08:00 - 15:00,,,,True,,,,,,,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,08:00 - 14:30,,,,True,,,,,,,RS Document Review,XTENDO,,6.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 00:00,,,,True,,,,,,,RS Document Review,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,10:00 - 14:30,,,,True,,,,,,,RS Document Review,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-07,,,00:00 - 00:15,,,,True,Training,,lectura,,,,,XTENDO,,0.25,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,28,2025-07-10,,,,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,21:00 - 22:00,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,,,,,True,Training,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 16:00,,,,True,Training,,,,,Feedback,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,15:00 - 16:00,,,,True,Training,,,,,Feedback,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,20:00 - 21:00,,,,True,Training,,,,,Feedback,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,14:00 - 15:00,,,,True,Training,,,,,Feedback,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,21:30 - 22:30,,,,True,,Cambio de turno,,,,manuela.lopez_ndo.ext@pedidosya.com,,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-07,,,14:00 - 16:00,,,,True,,CA,,,,sara.graciano_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 00:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 11:30,,,,True,,CA,,,,julian.arenas_ndo.ext@pedidosya.com,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,19:00 - 22:30,,,,True,,CA,,,,kiatusca.reyes_ndo.ext@pedidosya.com,TMS,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-07,,,08:00 - 14:00,,,,True,,CA,,,,eliana.ochoa_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,6.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,14:30 - 18:30,,,,True,,CTP,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,08:00 - 12:30,,,,True,,CA,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,4.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 23:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,00:00 - 02:00,,,,True,,CA,,,,maribel.escobar_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,00:00 - 02:00,,,,True,,CA,,,,maribel.escobar_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-08,,,12:00 - 17:30,,,,True,,CA,,,,juan.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,5.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,19:30 - 22:00,,,,True,,CA,,,,yurany.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,20:00 - 22:00,,,,True,,CA,,,,yurany.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,00:00 - 01:00,,,,False,Ausente,AJ,,,Si,WFM / No llega al turno,RS Document Review,XTENDO,,1.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,00:00 - 01:00,,,,True,,Cubre ausencia,,,,junior.villasmil_ndo.ext@pedidosya.com,RS Document Review,,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,08:00 - 12:00,,,,True,,CA,,,,julian.arenas_ndo.ext@pedidosya.com,TMS,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-08,,,21:00 - 00:00,,,,True,,,,,,,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-08,,,14:00 - 16:00,,,,True,,CA,,,,angie.gafaro_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 23:00,,,,True,Ausente,CTT,,,,eliana.ochoa_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,09:30 - 13:30,,,,False,Ausente,CTT,,,,gloria.hernandez_ndo.ext@pedidosya.com,,XTENDO,,4.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 23:00,,,,True,,,,,,,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,20:00 - 00:00,,,,True,,CA,,,,malorin.henao_ndo.ext@pedidosya.com,,XTENDO,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-09,,,21:00 - 23:00,,,,True,,CA,,,,luciana.merlano_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,21:30 - 22:30,,,,True,,,,,,,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,00:00 - 02:00,,,,True,,CA,,,,sebastian.arango_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,22:30 - 00:00,,,,True,,CA,,,,sebastian.arango_ndo.ext@pedidosya.com,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,22:00 - 00:00,,,,True,,,,,,,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,09:00 - 11:00,,,,True,,CA,,,,valentina.bran_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-09,,,18:00 - 20:00,,,,True,,CA,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,21:00 - 22:00,,,,False,Training,,Feedback TL,,,,,,,1.0,,,,False
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,17:30 - 18:30,,,,True,,CA,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-13,,,15:00 - 22:00,,,,True,,CA,,,,leidy.villamizar_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,CA,,,,eliana.ochoa_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,08:00 - 15:00,,,,True,,CA,,,,kiatusca.reyes_ndo.ext@pedidosya.com,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,12:00 - 14:00,,,,True,Training,,Feedback-Monitoreo,,,,,,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-11,,,18:00 - 20:00,,,,True,Training,,Feedback-Monitoreo,,,,,,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,12:00 - 15:00,,,,True,Training,,Feedback-Monitoreo,,,,,,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-12,,,18:00 - 22:00,,,,True,Training,,Feedback-Monitoreo,,,,,,,4.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,08:00 - 15:00,,,,True,,CA,,,,david.camargo_ndo.ext@pedidosya.com,TMS,XTENDO,,7.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,00:00 - 02:00,,,,True,,WFM,,,,WFM,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,09:30 - 13:00,,,,True,,CA,,,,sara.graciano_ndo.ext@pedidosya.com,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,20:30 - 00:00,,,,True,,CA,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,3.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,09:30 - 11:00,,,,True,,CTP,,,,malorin.henao_ndo.ext@pedidosya.com,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,13:30 - 15:00,,,,True,,CA,,,,gloria.hernandez_ndo.ext@pedidosya.com,,XTENDO,,1.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-10,,,11:00 - 13:30,,,,True,,CA,,,,gloria.hernandez_ndo.ext@pedidosya.com,,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-10,,,17:30 - 18:30,,,,True,,CA,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-10,,,15:30 - 16:30,,,,True,,CA,,,,sandra.espinel_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-11,,,14:00 - 14:30,,,,True,,CA,,,,alvaro.gamarra_ndo.ext@pedidosya.com,,XTENDO,,0.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-11,,,18:30 - 19:30,,,,True,,CA,,,,luciana.merlano_ndo.ext@pedidosya.com,RS Document Review,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,28,2025-07-12,,,21:00 - 23:30,,,,True,,CA,,,,mercedes.garcia_ndo.ext@pedidosya.com,TMS,XTENDO,,2.5,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-12,,,22:00 - 00:00,,,,True,,CA,,,,miguel.florez_ndo.ext@pedidosya.com,,XTENDO,,2.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,08:00 - 11:00,,,,True,,CA,,,,esteban.santos_ndo.ext@pedidosya.com,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,17:00 - 20:00,,,,True,,CA,,,,angie.gafaro_ndo.ext@pedidosya.com,,XTENDO,,3.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,28,2025-07-13,,,11:00 - 12:00,,,,True,,CA,,,,esteban.santos_ndo.ext@pedidosya.com,,XTENDO,,1.0,,,,True
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,28,2025-07-13,,,20:00 - 21:00,,,,True,,CA,,,,yurany.sarrazola_ndo.ext@pedidosya.com,,XTENDO,,1.0,,,,True

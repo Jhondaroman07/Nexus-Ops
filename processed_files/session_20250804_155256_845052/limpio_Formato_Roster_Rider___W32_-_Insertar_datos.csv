@@ -1,0 +1,584 @@
+SM,agent_email,LOB,Week,fecha,Inicio_Turno,Salida_Turno,Horario_Rooster,Total_horas
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,00:00 - 00:30,0.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,00:00 - 00:30,0.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,00:00 - 00:30,0.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 19:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,15:00 - 23:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 13:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,21:30 - 22:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,16:30 - 17:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,15:30 - 16:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,15:30 - 18:00,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.rojas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,15:15 - 15:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 15:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,17:30 - 18:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andrea.hernandez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,22:00 - 23:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,21:30 - 22:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:00 - 20:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,22:00 - 23:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,15:00 - 16:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,20:00 - 21:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,20:00 - 21:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,15:30 - 17:00,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,17:00 - 18:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,13:00 - 14:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,19:30 - 21:00,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:45 - 19:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,12:00 - 14:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,20:00 - 22:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,12:00 - 14:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,andreina.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-04,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-04,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,17:00 - 19:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,17:30 - 19:30,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-04,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-04,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,22:00 - 00:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,22:00 - 00:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,00:00 - 02:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,18:00 - 22:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,chirlies.freites_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,19:30 - 22:00,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,21:00 - 23:30,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-07,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-05,,,05:00 - 08:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,14:00 - 17:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,14:00 - 17:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,19:00 - 22:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-05,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-10,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-05,,,05:00 - 08:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:15 - 14:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:30 - 17:00,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,13:30 - 16:30,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cindy.coronel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,18:30 - 23:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,15:00 - 18:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,19:00 - 22:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,11:00 - 13:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-05,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,19:00 - 22:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,13:00 - 16:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:30 - 22:30,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-05,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-10,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-07,,,04:30 - 08:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-09,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-09,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-06,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-07,,,02:00 - 05:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,constanza.coy_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,20:00 - 23:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 15:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,18:00 - 21:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,19:30 - 23:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,13:00 - 16:30,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 11:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-10,,,02:00 - 06:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.camargo_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-10,,,02:00 - 06:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,18:00 - 22:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,18:00 - 20:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,12:30 - 16:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,18:30 - 23:30,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,diana.paz_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,18:00 - 20:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,20:30 - 23:00,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,18:00 - 19:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,08:00 - 12:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,18:30 - 23:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,19:30 - 23:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 15:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 15:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eliana.ochoa_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 15:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,09:30 - 16:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 17:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,09:30 - 16:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,18:30 - 22:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,felipe.samper_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,13:45 - 14:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 19:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,21:30 - 00:00,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,15:30 - 21:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,23:00 - 00:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:00 - 23:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-09,,,02:00 - 06:30,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 15:30,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,18:00 - 19:30,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,14:00 - 18:30,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,geofrey.ramirez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,19:45 - 20:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,15:30 - 23:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,12:00 - 16:30,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,10:30 - 11:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jackeline.pacheco_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 21:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,13:00 - 18:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,21:30 - 00:00,2.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,09:30 - 14:30,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,15:30 - 21:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,14:00 - 19:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,12:00 - 17:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,22:30 - 00:00,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,10:30 - 16:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,18:30 - 23:30,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:15 - 20:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,jahir.rodriguez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,15:00 - 21:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,15:30 - 21:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,22:00 - 00:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,12:00 - 18:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:15 - 20:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,13:00 - 17:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jhon.velandia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,15:00 - 21:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 15:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,09:30 - 15:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,09:30 - 15:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,12:00 - 17:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,12:00 - 17:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,12:00 - 17:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.arenas_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,juan.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,12:00 - 17:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,09:30 - 15:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 16:30,8.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,09:30 - 15:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,junior.villasmil_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 11:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,14:00 - 19:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,15:30 - 21:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,22:00 - 00:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,12:00 - 17:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:45 - 21:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,kiatusca.reyes_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,10:30 - 16:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,15:30 - 21:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-06,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-09,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,22:00 - 00:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,11:30 - 19:30,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 19:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-06,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,12:00 - 18:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,12:00 - 18:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,12:00 - 18:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,12:00 - 18:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:00 - 21:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-07,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,15:30 - 21:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,leidy.villamizar_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,19:45 - 20:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,15:30 - 21:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,22:00 - 00:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-06,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-09,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-10,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,16:00 - 22:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,lina.bernal_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:45 - 21:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,david.figueredo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-05,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,19:30 - 00:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,10:30 - 16:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,19:00 - 00:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,17:00 - 00:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 19:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,15:00 - 21:30,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luciana.merlano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:45 - 19:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,julian.soto_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 13:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,15:30 - 17:00,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luis.pazos_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,18:30 - 22:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,18:30 - 23:30,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,09:30 - 17:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,17:30 - 23:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.garces_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,09:30 - 15:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luz.pineda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.mancilla_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,18:30 - 22:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,santiago.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,18:30 - 00:00,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,09:30 - 17:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,09:30 - 15:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,09:30 - 15:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-07,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-09,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-10,,,02:00 - 08:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,09:30 - 15:30,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,12:00 - 18:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,18:00 - 00:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,09:30 - 17:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 13:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,09:30 - 13:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,madeleyne.calistro_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,17:30 - 00:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-09,,,17:30 - 00:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.gafaro_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,14:00 - 20:30,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-05,,,17:00 - 23:30,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,19:00 - 23:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-07,,,17:00 - 23:30,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,09:30 - 16:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,09:30 - 16:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,19:30 - 23:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-05,,,09:30 - 16:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-10,,,17:30 - 00:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,19:30 - 23:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,17:00 - 00:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,16:30 - 20:30,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,13:00 - 20:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.rueda_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,11:30 - 19:30,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,manuela.lopez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,12:00 - 19:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,17:00 - 00:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-09,,,17:00 - 00:00,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-06,,,09:30 - 16:30,7.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-07,,,15:00 - 22:30,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,09:30 - 17:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,maria.cabral_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,16:15 - 16:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,silvia.oviedo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 20:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,14:00 - 19:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mario.quijano_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,13:45 - 14:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,20:00 - 21:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,matheo.martinez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,13:45 - 14:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,mercedes.garcia_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,14:00 - 19:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,09:30 - 17:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,15:30 - 23:00,7.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,Turno por cubrir,RS_Onboarding,32,2025-08-05,,,20:30 - 00:00,3.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,nadya.fonseca_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,pierre.suarez_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-10,,,14:00 - 22:30,8.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alejandro.henao_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,alvaro.gamarra_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,17:15 - 17:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,anderson.gonzalez_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,01:45 - 02:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.giraldo_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,01:45 - 02:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,angie.rubio_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,11:45 - 12:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,annyberth.angulo_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,18:45 - 19:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,11:45 - 12:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,astrid.perez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:15 - 19:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,cesar.uipan_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,01:45 - 02:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-07,,,08:00 - 16:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,11:00 - 13:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,00:00 - 01:00,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniel.rua_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,20:15 - 20:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.londono_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,01:45 - 02:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,daniela.pineda_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,sandra.espinel_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,eduardo.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,esteban.santos_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,12:45 - 13:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,10:30 - 12:00,1.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,gloria.hernandez_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,09:15 - 09:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,gustavo.escobar_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:15 - 19:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,13:30 - 18:00,4.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,20:00 - 23:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,jaimar.gonzalez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,19:45 - 20:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,jose.ramirez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,13:45 - 14:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,Turno por cubrir,RS_Onboarding,32,2025-08-08,,,18:00 - 20:00,2.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,karen.hurtado_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,16:45 - 17:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,katherine.moreno_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:45 - 20:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,20:00 - 00:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,14:00 - 18:00,4.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,saray.pinto_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,10:15 - 10:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,21:00 - 00:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,16:00 - 00:00,8.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,luisa.vargas_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,13:30 - 20:00,6.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,13:00 - 18:30,5.5
+yairlyn.fuentes_ndo.ext@pedidosya.com,malorin.henao_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,18:15 - 18:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-04,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,valentina.bran_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,13:15 - 13:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,maribel.escobar_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,19:15 - 19:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-05,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,martha.echeverri_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,11:45 - 12:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,mateo.borja_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,18:45 - 19:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-06,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-04,,,21:30 - 22:30,1.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,miguel.florez_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,13:45 - 14:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,08:00 - 14:00,6.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,nicole.angulo_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,13:45 - 14:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,olga.jaimes_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,sara.graciano_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,09:15 - 09:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-09,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.arango_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:15 - 19:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,sebastian.duarte_ndo.ext@pedidosya.com,RS_Overnight,32,2025-08-08,,,01:45 - 02:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-10,,,08:00 - 13:00,5.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,yacomar.ortiz_ndo.ext@pedidosya.com,RS_Boost Channel,32,2025-08-08,,,17:45 - 18:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yerykson.palacio_ndo.ext@pedidosya.com,RS_Onboarding,32,2025-08-08,,,07:45 - 08:00,
+yairlyn.fuentes_ndo.ext@pedidosya.com,yurany.sarrazola_ndo.ext@pedidosya.com,RS_DS Accionables,32,2025-08-08,,,19:15 - 19:30,
+yairlyn.fuentes_ndo.ext@pedidosya.com,Turno por cubrir,RS_Overnight,32,2025-08-09,,,02:00 - 05:00,3.0
+yairlyn.fuentes_ndo.ext@pedidosya.com,Turno por cubrir,RS_Overnight,32,2025-08-10,,,02:00 - 05:00,3.0

@@ -1,0 +1,56 @@
+{% extends "base.html" %}
+
+{% block title %}Gestión de Documentos{% endblock %}
+
+{% block content %}
+<h2>Gestión de Documentos de Usuarios</h2>
+<p style="text-align: center; margin-top: -15px; margin-bottom: 30px; color: var(--secondary-color);">
+    Visualiza y descarga los documentos cargados por los miembros del equipo.
+</p>
+
+<table style="width: 100%; border-collapse: collapse; text-align: left; font-size: 0.9em;">
+    <thead style="background-color: var(--light-color);">
+        <tr>
+            <th style="padding: 12px;">Usuario</th>
+            <th style="padding: 12px; text-align: center;">Documento Identidad</th>
+            <th style="padding: 12px; text-align: center;">Certificado Bancario</th>
+            <th style="padding: 12px; text-align: center;">Contrato</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for user in users %}
+        <tr style="border-bottom: 1px solid #e0e0e0;">
+            <td style="padding: 12px;">
+                <strong>{{ user.nombre or '' }} {{ user.apellido or '' }}</strong><br>
+                <small>{{ user.email }}</small>
+            </td>
+            <td style="padding: 12px; text-align: center;">
+                {% if user.documento_identidad_file %}
+                    <a href="{{ url_for('download_document', user_id=user.id, doc_type='identidad') }}" class="button-link" style="padding: 5px 10px; font-size: 12px;">Descargar</a><br>
+                    <small>Subido: {{ user.documento_identidad_uploaded_at.strftime('%Y-%m-%d %H:%M') if user.documento_identidad_uploaded_at else 'N/A' }}</small>
+                {% else %}
+                    <span style="color: var(--secondary-color);">No cargado</span>
+                {% endif %}
+            </td>
+            <td style="padding: 12px; text-align: center;">
+                {% if user.certificado_bancario_file %}
+                    <a href="{{ url_for('download_document', user_id=user.id, doc_type='bancario') }}" class="button-link" style="padding: 5px 10px; font-size: 12px;">Descargar</a><br>
+                    <small>Subido: {{ user.certificado_bancario_uploaded_at.strftime('%Y-%m-%d %H:%M') if user.certificado_bancario_uploaded_at else 'N/A' }}</small>
+                {% else %}
+                    <span style="color: var(--secondary-color);">No cargado</span>
+                {% endif %}
+            </td>
+            <td style="padding: 12px; text-align: center;">
+                {% if user.contrato_file %}
+                    <a href="{{ url_for('download_document', user_id=user.id, doc_type='contrato') }}" class="button-link" style="padding: 5px 10px; font-size: 12px;">Descargar</a><br>
+                    <small>Subido: {{ user.contrato_uploaded_at.strftime('%Y-%m-%d %H:%M') if user.contrato_uploaded_at else 'N/A' }}</small>
+                {% else %}
+                    <span style="color: var(--secondary-color);">No cargado</span>
+                {% endif %}
+            </td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
+
+{% endblock %}

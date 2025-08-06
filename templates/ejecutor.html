@@ -1,0 +1,55 @@
+{% extends "base.html" %}
+
+{% block title %}Limpieza de Datos{% endblock %}
+
+{% block content %}
+    <h1>Ejecutor de Scripts Python</h1>
+    <h2>Limpieza Datos Reporting & BI</h2>
+    <h3>John D Castaño</h3>
+    
+    {% if success %}
+    <div class="message success">
+        {{ success }}
+        {% if download_file %}
+        <a href="{{ url_for('download_file', filename=download_file) }}" id="download-link" style="display: block; margin-top: 10px;">
+            <b>Descargar resultados</b>
+        </a>
+        {% endif %}
+    </div>
+    {% endif %}
+    
+    <form method="POST" enctype="multipart/form-data" id="upload-form">
+        <div class="form-group">
+            <label for="script_name">Selecciona el script a ejecutar:</label>
+            <select name="script_name" id="script_name" required>
+                <option value="">-- Selecciona un script --</option>
+                {% for script in scripts %}
+                <option value="{{ script }}" {% if script == selected_script %}selected{% endif %}>{{ script }}</option>
+                {% endfor %}
+            </select>
+        </div>
+        
+        <div class="form-group">
+            <label for="files">Sube tus archivos CSV (múltiples):</label>
+            <input type="file" name="files[]" id="files" accept=".csv" multiple required>
+            <div id="file-list" style="margin-top: 10px;"></div>
+        </div>
+        
+        <div class="actions" style="margin-top: 20px; display: flex; justify-content: space-between;">
+            <button type="submit">Ejecutar Script</button>
+            <button type="button" onclick="location.reload()" style="background: #2196F3;">Nuevo Proceso</button>
+        </div>
+    </form>
+
+    <script>
+        document.getElementById('files').addEventListener('change', function(e) {
+            const fileList = document.getElementById('file-list');
+            fileList.innerHTML = '';
+            if (this.files.length > 0) {
+                const header = document.createElement('div');
+                header.textContent = `Archivos seleccionados: ${this.files.length}`;
+                fileList.appendChild(header);
+            }
+        });
+    </script>
+{% endblock %}

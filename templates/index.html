@@ -1,0 +1,109 @@
+{% extends "base.html" %}
+
+{% block title %}Inicio{% endblock %}
+
+{% block content %}
+<style>
+    .dashboard-header {
+        text-align: left;
+        border-bottom: none;
+        margin-bottom: 25px;
+    }
+    .stats-container {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 25px;
+    }
+    .stat-card {
+        background-color: var(--light-color);
+        padding: 25px;
+        border-radius: var(--border-radius);
+        border-left: 5px solid var(--primary-color);
+        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    }
+    .stat-card h4 {
+        margin-top: 0;
+        font-size: 1.1em;
+        color: var(--secondary-color);
+    }
+    .stat-card .time {
+        font-size: 2.2em;
+        font-weight: 700;
+        color: var(--dark-color);
+    }
+    /* --- NUEVOS ESTILOS PARA EL PANEL DE RECORDATORIO --- */
+    .reminder-card {
+        background: linear-gradient(135deg, #fff3cd, #ffeeba);
+        border-left: 5px solid var(--warning-color);
+        padding: 25px;
+        border-radius: var(--border-radius);
+        margin-top: 30px;
+        box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+    }
+    .reminder-card h4 {
+        margin-top: 0;
+        color: #856404;
+        font-size: 1.2em;
+    }
+    .doc-status-list {
+        list-style: none;
+        padding: 0;
+        margin-top: 15px;
+    }
+    .doc-status-list li {
+        margin-bottom: 10px;
+        font-weight: 500;
+    }
+    .status-ok {
+        color: var(--success-color);
+        font-weight: 700;
+    }
+    .status-pending {
+        color: var(--danger-color);
+        font-weight: 700;
+    }
+</style>
+
+<h2 class="dashboard-header">Bienvenido, {{ current_user.nombre or current_user.email }}</h2>
+
+<div class="stats-container">
+    <div class="stat-card">
+        <h4>Hoy tienes un total de:</h4>
+        <p class="time">{{ today_duration }}</p>
+    </div>
+    <div class="stat-card">
+        <h4>Este mes llevas:</h4>
+        <p class="time">{{ month_duration }}</p>
+    </div>
+</div>
+
+<div class="reminder-card">
+    <h4>¡Mantén tu información al día!</h4>
+    <p>Un perfil completo nos ayuda a gestionar mejor nuestro equipo. Revisa el estado de tus documentos y actualiza tus datos personales.</p>
+    <h5>Estado de tus Documentos:</h5>
+    <ul class="doc-status-list">
+        <li>Documento de Identidad:
+            {% if current_user.documento_identidad_file %}
+                <span class="status-ok">✔️ Cargado</span>
+            {% else %}
+                <span class="status-pending">❌ Pendiente</span>
+            {% endif %}
+        </li>
+        <li>Certificado Bancario:
+            {% if current_user.certificado_bancario_file %}
+                <span class="status-ok">✔️ Cargado</span>
+            {% else %}
+                <span class="status-pending">❌ Pendiente</span>
+            {% endif %}
+        </li>
+        <li>Contrato:
+            {% if current_user.contrato_file %}
+                <span class="status-ok">✔️ Cargado</span>
+            {% else %}
+                <span class="status-pending">❌ Pendiente</span>
+            {% endif %}
+        </li>
+    </ul>
+    <a href="{{ url_for('mis_datos') }}" class="button-link" style="background-color: var(--warning-color); color: var(--dark-color); border: 1px solid #856404;">Actualizar mis datos y documentos</a>
+</div>
+{% endblock %}

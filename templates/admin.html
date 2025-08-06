@@ -1,0 +1,239 @@
+{% extends "base.html" %}
+
+{% block title %}Panel de Administración{% endblock %}
+
+{% block content %}
+<style>
+    .collapsible-trigger { background-color: var(--primary-color); color: white; cursor: pointer; padding: 18px; width: 100%; border: none; text-align: left; outline: none; font-size: 1.1em; font-weight: 500; border-radius: var(--border-radius); display: flex; justify-content: space-between; align-items: center; transition: background-color 0.4s ease; margin-bottom: 0; }
+    .collapsible-trigger:hover { background-color: #0056b3; }
+    .collapsible-trigger .arrow { transition: transform 0.3s ease; }
+    .collapsible-trigger.active .arrow { transform: rotate(180deg); }
+    .collapsible-content { padding: 0 25px; max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out, padding 0.3s ease-out; background-color: #f8f9fa; border: 1px solid #e0e0e0; border-top: none; border-bottom-left-radius: var(--border-radius); border-bottom-right-radius: var(--border-radius); }
+    .report-form .form-row { display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-end; }
+</style>
+
+<h2>Gestión de Usuarios y Reportes</h2>
+
+<div style="margin-top: 20px;">
+    <button type="button" class="collapsible-trigger"><span>Crear Nuevo Usuario</span><span class="arrow">🔽</span></button>
+    <div class="collapsible-content">
+        <div style="padding: 25px 0;">
+            <form method="POST" action="{{ url_for('admin_panel') }}">
+                <div class="form-group"><label for="nombre">Nombre Completo</label><input type="text" id="nombre" name="nombre" required></div>
+                <div class="form-group"><label for="apellido">Apellido</label><input type="text" id="apellido" name="apellido" required></div>
+                <div class="form-group"><label for="email">Correo Corporativo</label><input type="email" id="email" name="email" required></div>
+                <div class="form-group"><label for="password">Contraseña</label><input type="password" id="password" name="password" required></div>
+                <div class="form-group">
+                    <label for="role">Rol:</label>
+                    <select name="role" id="role">
+                        <option value="Agent" selected>Agent</option>
+                        {% if current_user.role in ['SubGerente', 'Gerente'] %}
+                        <option value="Admin">Admin</option>
+                        {% endif %}
+                        {% if current_user.role == 'Gerente' %}
+                        <option value="SubGerente">SubGerente</option>
+                        {% endif %}
+                    </select>
+                </div>
+                <button type="submit">Crear Usuario</button>
+            </form>
+        </div>
+    </div>
+</div>
+
+{% if current_user.role in ['SubGerente', 'Gerente'] %}
+<div style="margin-top: 20px;">
+    <button type="button" class="collapsible-trigger" style="background-color: var(--secondary-color);">
+        <span>Carga Masiva de Usuarios</span><span class="arrow">🔽</span>
+    </button>
+    <div class="collapsible-content">
+        <div style="padding: 25px 0;">
+            <p>Sube un archivo CSV para crear múltiples usuarios a la vez. El archivo debe contener las columnas: <strong>nombre, apellido, email, password</strong>.</p>
+            <form method="POST" action="{{ url_for('bulk_upload') }}" enctype="multipart/form-data">
+                <div class="form-group">
+                    <label for="bulk-file">Archivo CSV:</label>
+                    <input type="file" name="file" id="bulk-file" accept=".csv" required>
+                </div>
+                <button type="submit">Cargar Usuarios</button>
+            </form>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+
+<div style="margin-top: 20px;">
+    <button type="button" class="collapsible-trigger" style="background-color: var(--info-color);">
+        <span>Usuarios con Gestión Activa ({{ active_users|length }})</span><span class="arrow">🔽</span>
+    </button>
+    <div class="collapsible-content">
+        <div style="padding: 25px 0;">
+            {% if active_users %}
+                <table style="width: 100%; border-collapse: collapse;">
+                    <thead><tr style="background-color: #e9ecef;"><th style="padding: 12px;">Usuario</th><th style="padding: 12px;">Email</th><th style="padding: 12px; text-align:center;">Acciones</th></tr></thead>
+                    <tbody>
+                        {% for user in active_users %}
+                        <tr style="border-bottom: 1px solid #dee2e6;">
+                            <td style="padding: 12px;">🟢 {{ user.nombre or '' }} {{ user.apellido or '' }}</td>
+                            <td style="padding: 12px;">{{ user.email }}</td>
+                            <td style="text-align: center; display: flex; gap: 10px; justify-content: center;">
+                                {% if current_user.role != 'Gerente' and user.role == 'Gerente' %}
+                                    <small>No permitido</small>
+                                {% else %}
+                                <form method="POST" action="{{ url_for('force_end_management', user_id=user.id) }}" onsubmit="return confirm('¿Estás seguro de que deseas forzar el fin de gestión de este usuario?');" style="margin:0;">
+                                    <button type="submit" class="button-link button-warning" style="padding: 5px 10px; font-size: 12px;">Finalizar Gestión</button>
+                                </form>
+                                <form method="POST" action="{{ url_for('force_logout', user_id=user.id) }}" onsubmit="return confirm('¿Estás seguro de que deseas forzar el cierre de sesión de este usuario?');" style="margin:0;">
+                                    <button type="submit" class="button-link button-danger" style="padding: 5px 10px; font-size: 12px;">Forzar Salida</button>
+                                </form>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p style="text-align: center; color: var(--secondary-color);">No hay usuarios con una gestión activa en este momento.</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div style="margin-top: 20px;">
+    <button type="button" class="collapsible-trigger" style="background-color: var(--success-color);">
+        <span>Reporte de Tiempos</span><span class="arrow">🔽</span>
+    </button>
+    <div class="collapsible-content">
+        <div style="padding: 25px 0;">
+            <div class="report-form">
+                <h4>Filtrar Tiempos Registrados</h4>
+                <form method="GET" action="{{ url_for('admin_panel') }}" id="filter-form">
+                    <div class="form-row">
+                        <div class="form-group"><label for="date_from">Desde:</label><input type="date" id="date_from" name="date_from" value="{{ filters.date_from }}"></div>
+                        <div class="form-group"><label for="date_to">Hasta:</label><input type="date" id="date_to" name="date_to" value="{{ filters.date_to }}"></div>
+                    </div>
+                    <div class="form-group">
+                        <label for="user_ids">Filtrar por Usuarios:</label>
+                        <select name="user_ids" id="user_ids" multiple size="5" style="height: 120px;">
+                            <option value="all" {% if 'all' in filters.user_ids or not filters.user_ids %}selected{% endif %}>Todos los usuarios</option>
+                            {% for user in users_with_logs %}<option value="{{ user.id }}" {% if user.id|string in filters.user_ids %}selected{% endif %}>{{ user.nombre or '' }} {{ user.apellido or '' }} ({{ user.email }})</option>{% endfor %}
+                        </select>
+                        <small>Mantén presionado Ctrl (o Cmd en Mac) para seleccionar varios.</small>
+                    </div>
+                    <button type="submit">Filtrar Reporte</button>
+                </form>
+            </div>
+            <hr style="margin: 30px 0;">
+            <div style="display: flex; justify-content: space-between; align-items: center; margin-bottom: 20px;">
+                <h4>Resultados del Filtro</h4>
+                <form method="POST" action="{{ url_for('export_timelogs') }}">
+                    <input type="hidden" name="date_from" value="{{ filters.date_from }}"><input type="hidden" name="date_to" value="{{ filters.date_to }}">
+                    {% for user_id in filters.user_ids %}<input type="hidden" name="user_ids" value="{{ user_id }}">{% endfor %}
+                    <button type="submit" class="button-link button-secondary">Exportar a CSV</button>
+                </form>
+            </div>
+            {% if time_logs %}
+                <table style="width: 100%; border-collapse: collapse;">
+                    <thead><tr style="background-color: #e9ecef;"><th style="padding: 12px;">Usuario</th><th style="padding: 12px;">Email</th><th style="padding: 12px;">Tiempo Total en Rango</th></tr></thead>
+                    <tbody>
+                        {% for log in time_logs %}
+                        <tr style="border-bottom: 1px solid #dee2e6;"><td style="padding: 12px;">{{ log.nombre or '' }} {{ log.apellido or '' }}</td><td style="padding: 12px;">{{ log.email }}</td><td style="padding: 12px;">{{ log.formatted_duration }}</td></tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            {% else %}
+                <p style="text-align: center; color: var(--secondary-color);">No se encontraron registros para los filtros seleccionados.</p>
+            {% endif %}
+        </div>
+    </div>
+</div>
+
+<div style="margin-top: 20px;">
+    <button type="button" class="collapsible-trigger">
+        <span>Lista de Usuarios Actuales</span><span class="arrow">🔽</span>
+    </button>
+    <div class="collapsible-content">
+        <div style="padding: 25px 0;">
+            <form method="POST" action="{{ url_for('export_users') }}" id="export-users-form">
+                <div style="display: flex; justify-content: flex-end; margin-bottom: 20px;">
+                    <button type="submit" class="button-link button-secondary">Exportar Usuarios Seleccionados a CSV</button>
+                </div>
+                <table style="width: 100%; border-collapse: collapse; text-align: left;">
+                    <thead style="background-color: var(--light-color);">
+                        <tr>
+                            <th style="padding: 12px; width: 40px;"><input type="checkbox" id="select-all-users"></th>
+                            <th style="padding: 12px;">Nombre</th>
+                            <th style="padding: 12px;">Correo</th>
+                            <th style="padding: 12px;">Rol</th>
+                            <th style="padding: 12px; text-align: center;">Acciones</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        {% for user in users %}
+                        <tr style="border-bottom: 1px solid #e0e0e0;">
+                            <td style="padding: 12px;"><input type="checkbox" name="selected_users" value="{{ user.id }}" class="user-checkbox"></td>
+                            <td style="padding: 12px;">{{ user.nombre or '' }} {{ user.apellido or '' }}</td>
+                            <td style="padding: 12px;">{{ user.email }}</td>
+                            <td style="padding: 12px;">{{ user.role }}</td>
+                            <td style="padding: 12px; text-align: center; display: flex; gap: 10px; justify-content: center; align-items: center;">
+                                {% if current_user.role in ['SubGerente', 'Gerente'] and (current_user.role == 'Gerente' or user.role != 'Gerente') %}
+                                    <a href="{{ url_for('edit_user', user_id=user.id) }}" class="button-link" style="padding: 8px 12px; font-size: 14px;">Editar</a>
+                                {% endif %}
+                                {% if current_user.role == 'Gerente' and user.role != 'Gerente' %}
+                                    <form method="POST" action="{{ url_for('delete_user', user_id=user.id) }}" style="margin:0;">
+                                        <button type="submit" class="button-danger" style="padding: 8px 12px; font-size: 14px;" onclick="return confirm('¿Estás seguro de que deseas eliminar a {{ user.email }}?');">Eliminar</button>
+                                    </form>
+                                {% endif %}
+                            </td>
+                        </tr>
+                        {% endfor %}
+                    </tbody>
+                </table>
+            </form>
+            </div>
+    </div>
+</div>
+
+<script>
+    document.querySelectorAll('.collapsible-trigger').forEach(trigger => {
+        trigger.addEventListener('click', function(event) {
+            const content = this.nextElementSibling;
+            if (content.contains(event.target) && this.classList.contains('active')) {
+                if (event.target.tagName === 'BUTTON' || event.target.tagName === 'A') {
+                    return;
+                }
+            }
+            this.classList.toggle('active');
+            const arrow = this.querySelector('.arrow');
+            if (content.style.maxHeight) { 
+                content.style.maxHeight = null; 
+                arrow.textContent = '🔽'; 
+            } else { 
+                content.style.maxHeight = content.scrollHeight + 50 + "px"; 
+                arrow.textContent = '🔼'; 
+            }
+        });
+    });
+
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const urlParams = new URLSearchParams(window.location.search);
+        if (urlParams.has('date_from')) {
+            const reportTrigger = document.querySelector('.collapsible-trigger[style*="--success-color"]');
+            if (reportTrigger && !reportTrigger.classList.contains('active')) {
+                reportTrigger.click();
+            }
+        }
+        
+        // Lógica para seleccionar/deseleccionar todos los usuarios
+        const selectAllCheckbox = document.getElementById('select-all-users');
+        if (selectAllCheckbox) {
+            selectAllCheckbox.addEventListener('change', function() {
+                document.querySelectorAll('.user-checkbox').forEach(checkbox => {
+                    checkbox.checked = this.checked;
+                });
+            });
+        }
+    });
+</script>
+
+{% endblock %}
