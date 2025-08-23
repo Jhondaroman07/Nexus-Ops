@@ -106,6 +106,16 @@ class TimeLog(db.Model):
 # =============================================
 # FUNCIONES DE AYUDA Y DECORADORES
 # =============================================
+def format_seconds_to_hhh_mm_ss(seconds):
+    """Convierte un total de segundos a un formato de string HHH:MM:SS."""
+    if seconds is None:
+        return "00:00:00"
+    total_seconds = int(seconds)
+    hours = total_seconds // 3600
+    minutes = (total_seconds % 3600) // 60
+    secs = total_seconds % 60
+    return f"{hours:02}:{minutes:02}:{secs:02}"
+
 @login_manager.user_loader
 def load_user(user_id): return User.query.get(int(user_id))
 
@@ -226,9 +236,11 @@ def admin_panel():
     if user_ids and 'all' not in user_ids:
         query = query.filter(TimeLog.user_id.in_([int(uid) for uid in user_ids]))
     logs_from_db = query.group_by(User.id).all()
+
     time_logs_formatted = [{'nombre': log.nombre, 'apellido': log.apellido, 'email': log.email,
-                            'formatted_duration': str(timedelta(seconds=int(log.total_duration or 0)))}
+                            'formatted_duration': format_seconds_to_hhh_mm_ss(log.total_duration)}
                            for log in logs_from_db]
+
     active_users = User.query.join(TimeLog).filter(TimeLog.end_time == None).all()
     users_with_logs = User.query.filter(User.time_logs.any()).order_by(User.nombre).all()
     users = User.query.order_by(User.id).all()
@@ -455,7 +467,7 @@ def export_timelogs():
         else:
             end_time_local = 'Activa'
             
-        duration_str = str(timedelta(seconds=int(log.duration))) if log.duration else 'N/A'
+        duration_str = format_seconds_to_hhh_mm_ss(log.duration) if log.duration else 'N/A'
         
         writer.writerow([log.id, log.user.nombre, log.user.apellido, log.user.email, 
                          start_time_local, end_time_local, duration_str])
@@ -463,7 +475,6 @@ def export_timelogs():
     output.seek(0)
     return Response(output, mimetype="text/csv", headers={"Content-Disposition": f"attachment;filename={filename}"})
 
-# --- NUEVA RUTA PARA GESTIÓN DE DOCUMENTOS ---
 @app.route('/documentos')
 @login_required
 @editor_required
@@ -475,20 +486,36 @@ def documentos():
 @login_required
 def index():
     from sqlalchemy import func
-    colombia_tz = pytz.timezone('America/Bogota'); now_colombia = datetime.now(colombia_tz)
+    colombia_tz = pytz.timezone('America/Bogota')
+    now_colombia = datetime.now(colombia_tz)
+    
     today_start = now_colombia.replace(hour=0, minute=0, second=0, microsecond=0)
     today_end = today_start + timedelta(days=1)
-    today_start_utc = today_start.astimezone(pytz.utc); today_end_utc = today_end.astimezone(pytz.utc)
+    today_start_utc = today_start.astimezone(pytz.utc)
+    today_end_utc = today_end.astimezone(pytz.utc)
+    
     today_duration_sec = db.session.query(func.sum(TimeLog.duration)).filter(
-        TimeLog.user_id == current_user.id, TimeLog.start_time >= today_start_utc, TimeLog.start_time < today_end_utc).scalar() or 0
-    today_duration_str = str(timedelta(seconds=int(today_duration_sec)))
+        TimeLog.user_id == current_user.id, 
+        TimeLog.start_time >= today_start_utc, 
+        TimeLog.start_time < today_end_utc
+    ).scalar() or 0
+    
     month_start = now_colombia.replace(day=1, hour=0, minute=0, second=0, microsecond=0)
-    next_month = (month_start.replace(day=28) + timedelta(days=4)).replace(day=1); month_end = next_month
-    month_start_utc = month_start.astimezone(pytz.utc); month_end_utc = month_end.astimezone(pytz.utc)
+    next_month = (month_start.replace(day=28) + timedelta(days=4)).replace(day=1)
+    month_end = next_month
+    month_start_utc = month_start.astimezone(pytz.utc)
+    month_end_utc = month_end.astimezone(pytz.utc)
+    
     month_duration_sec = db.session.query(func.sum(TimeLog.duration)).filter(
-        TimeLog.user_id == current_user.id, TimeLog.start_time >= month_start_utc, TimeLog.start_time < month_end_utc).scalar() or 0
-    month_duration_str = str(timedelta(seconds=int(month_duration_sec)))
-    return render_template('index.html', today_duration=today_duration_str, month_duration=month_duration_str)
+        TimeLog.user_id == current_user.id, 
+        TimeLog.start_time >= month_start_utc, 
+        TimeLog.start_time < month_end_utc
+    ).scalar() or 0
+    
+    today_duration_formatted = format_seconds_to_hhh_mm_ss(today_duration_sec)
+    month_duration_formatted = format_seconds_to_hhh_mm_ss(month_duration_sec)
+
+    return render_template('index.html', today_duration=today_duration_formatted, month_duration=month_duration_formatted)
 
 @app.route('/ejecutor', methods=['GET', 'POST'])
 @login_required
@@ -566,10 +593,11 @@ def end_management():
     active_log.duration = duration_delta.total_seconds()
     
     db.session.commit()
-    flash(f'Gestión finalizada. Duración: {str(timedelta(seconds=int(active_log.duration)))}', 'success')
+    
+    duration_formatted = format_seconds_to_hhh_mm_ss(active_log.duration)
+    flash(f'Gestión finalizada. Duración: {duration_formatted}', 'success')
     return redirect(url_for('time_track_page'))
 
-# --- INICIO DE LA NUEVA FUNCIÓN PARA EXPORTAR USUARIOS ---
 @app.route('/admin/export_users', methods=['POST'])
 @login_required
 @panel_admin_required
@@ -582,7 +610,6 @@ def export_users():
     query = User.query.filter(User.id.in_(user_ids)).order_by(User.nombre)
     users_to_export = query.all()
 
-    # Definir las cabeceras del CSV
     headers = [
         'ID', 'Nombre', 'Apellido', 'Correo Corporativo', 'Correo Personal', 
         'Rol', 'Estado', 'Tipo Documento', 'Numero Documento', 'Numero Celular',
@@ -594,7 +621,6 @@ def export_users():
     writer = csv.writer(output)
     writer.writerow(headers)
 
-    # Escribir los datos de cada usuario
     for user in users_to_export:
         writer.writerow([
             user.id,
@@ -626,7 +652,6 @@ def export_users():
         mimetype="text/csv",
         headers={"Content-Disposition": f"attachment;filename={filename}"}
     )
-# --- FIN DE LA NUEVA FUNCIÓN ---
     
 def get_scripts_list():
     script_folder = os.path.join(BASE_DIR, 'static', 'scripts')
