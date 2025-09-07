@@ -4,106 +4,184 @@
 
 {% block content %}
 <style>
-    .dashboard-header {
-        text-align: left;
-        border-bottom: none;
-        margin-bottom: 25px;
-    }
-    .stats-container {
+    .dashboard-grid {
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
         gap: 25px;
     }
-    .stat-card {
-        background-color: var(--light-color);
-        padding: 25px;
+
+    .dashboard-card {
+        background-color: #ffffff;
         border-radius: var(--border-radius);
-        border-left: 5px solid var(--primary-color);
-        box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    }
-    .stat-card h4 {
-        margin-top: 0;
-        font-size: 1.1em;
-        color: var(--secondary-color);
-    }
-    .stat-card .time {
-        font-size: 2.2em;
-        font-weight: 700;
-        color: var(--dark-color);
-    }
-    /* --- NUEVOS ESTILOS PARA EL PANEL DE RECORDATORIO --- */
-    .reminder-card {
-        background: linear-gradient(135deg, #fff3cd, #ffeeba);
-        border-left: 5px solid var(--warning-color);
         padding: 25px;
-        border-radius: var(--border-radius);
-        margin-top: 30px;
-        box-shadow: 0 4px 8px rgba(0,0,0,0.05);
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+        border: 1px solid #e9ecef;
     }
-    .reminder-card h4 {
+
+    .welcome-card {
+        grid-column: 1 / -1; /* Ocupa todo el ancho */
+        background: linear-gradient(135deg, #0d6efd, #0056b3); /* Tono de azul ligeramente ajustado */
+        color: white;
+        padding: 30px;
+    }
+
+    /* Regla específica para asegurar que el texto sea blanco */
+    .welcome-card h2, .welcome-card p {
+        color: white;
+    }
+
+    .welcome-card h2 {
         margin-top: 0;
-        color: #856404;
-        font-size: 1.2em;
-    }
-    .doc-status-list {
-        list-style: none;
-        padding: 0;
-        margin-top: 15px;
-    }
-    .doc-status-list li {
-        margin-bottom: 10px;
         font-weight: 500;
     }
-    .status-ok {
+    .welcome-card p {
+        margin-bottom: 0;
+        font-size: 1.1em;
+        opacity: 0.9;
+    }
+
+    .dashboard-card h3 {
+        color: var(--primary-color);
+        margin-top: 0;
+        padding-bottom: 10px;
+        border-bottom: 1px solid #eee;
+        font-size: 1.2em;
+        font-weight: 500;
+    }
+
+    .time-card h3 {
+        color: white;
+        border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+    }
+
+    .time-card {
+        text-align: center;
+        color: white;
+    }
+
+    .time-card .duration {
+        font-size: 2.5em;
+        font-weight: 600;
+        margin-top: 15px;
+    }
+
+    .today-card { background-color: var(--success-color); }
+    .month-card { background-color: var(--info-color); }
+
+    .info-list {
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+    .info-list li {
+        display: flex;
+        justify-content: space-between;
+        padding: 10px 0;
+        border-bottom: 1px solid #f0f0f0;
+        font-size: 0.95em;
+    }
+    .info-list li:last-child {
+        border-bottom: none;
+    }
+
+    .info-list .label {
+        color: #6c757d;
+        font-weight: 500;
+    }
+
+    .info-list .value {
+        color: #212529;
+        text-align: right;
+    }
+
+    .docs-list {
+        list-style: none;
+        padding: 0;
+        font-size: 1.1em;
+    }
+
+    .docs-list li {
+        margin-bottom: 15px;
+    }
+
+    .docs-list .status-ok {
         color: var(--success-color);
-        font-weight: 700;
     }
-    .status-pending {
+
+    .docs-list .status-pending {
         color: var(--danger-color);
-        font-weight: 700;
     }
+
 </style>
 
-<h2 class="dashboard-header">Bienvenido, {{ current_user.nombre or current_user.email }}</h2>
+<div class="dashboard-grid">
 
-<div class="stats-container">
-    <div class="stat-card">
-        <h4>Hoy tienes un total de:</h4>
-        <p class="time">{{ today_duration }}</p>
+    <div class="dashboard-card welcome-card">
+        <h2>Bienvenido de nuevo, {{ current_user.nombre or 'Usuario' }}!</h2>
+        <p>Este es tu panel de control personal en Nexus.</p>
     </div>
-    <div class="stat-card">
-        <h4>Este mes llevas:</h4>
-        <p class="time">{{ month_duration }}</p>
+
+    <div class="dashboard-card time-card today-card">
+        <h3>Tiempo Acumulado Hoy</h3>
+        <p class="duration">{{ today_duration }}</p>
+    </div>
+    <div class="dashboard-card time-card month-card">
+        <h3>Tiempo Acumulado en el Mes</h3>
+        <p class="duration">{{ month_duration }}</p>
+    </div>
+
+    <div class="dashboard-card">
+        <h3>Información Personal</h3>
+        <ul class="info-list">
+            <li><span class="label">Nombre Completo</span><span class="value">{{ current_user.nombre }} {{ current_user.apellido }}</span></li>
+            <li><span class="label">Correo Corporativo</span><span class="value">{{ current_user.email }}</span></li>
+            <li><span class="label">Correo Personal</span><span class="value">{{ current_user.correo_personal or 'No registrado' }}</span></li>
+            <li><span class="label">Documento</span><span class="value">{{ current_user.tipo_documento or '' }} {{ current_user.numero_documento or 'No registrado' }}</span></li>
+            <li><span class="label">Nro. Celular</span><span class="value">{{ current_user.numero_celular or 'No registrado' }}</span></li>
+        </ul>
+    </div>
+
+    <div class="dashboard-card">
+        <h3>Información Profesional</h3>
+        <ul class="info-list">
+            <li><span class="label">Cargo</span><span class="value">{{ current_user.cargo or 'No registrado' }}</span></li>
+            <li><span class="label">Equipo(s)</span><span class="value">{{ current_user.teams|map(attribute='name')|join(', ') or 'No asignado' }}</span></li>
+            <li><span class="label">Rol en Nexus</span><span class="value">{{ current_user.role }}</span></li>
+            <li><span class="label">Team Lead</span><span class="value">{{ current_user.tl or 'No registrado' }}</span></li>
+            <li><span class="label">Fecha de Ingreso</span><span class="value">{{ current_user.fecha_ingreso.strftime('%d-%m-%Y') if current_user.fecha_ingreso else 'No registrada' }}</span></li>
+        </ul>
+    </div>
+    
+    <div class="dashboard-card">
+        <h3>Estado de Documentos</h3>
+        <ul class="docs-list">
+            <li>
+                {% if current_user.documento_identidad_file %}
+                    <span class="status-ok">✔️</span> Documento de Identidad
+                {% else %}
+                    <span class="status-pending">❌</span> Documento de Identidad
+                {% endif %}
+            </li>
+            <li>
+                {% if current_user.certificado_bancario_file %}
+                    <span class="status-ok">✔️</span> Certificado Bancario
+                {% else %}
+                    <span class="status-pending">❌</span> Certificado Bancario
+                {% endif %}
+            </li>
+            <li>
+                {% if current_user.contrato_file %}
+                    <span class="status-ok">✔️</span> Contrato
+                {% else %}
+                    <span class="status-pending">❌</span> Contrato
+                {% endif %}
+            </li>
+        </ul>
+        <div style="text-align: right; margin-top: 20px;">
+            <a href="{{ url_for('mis_datos') }}" class="button-link button-secondary">Actualizar Datos o Subir Archivos</a>
+        </div>
     </div>
 </div>
 
-<div class="reminder-card">
-    <h4>¡Mantén tu información al día!</h4>
-    <p>Un perfil completo nos ayuda a gestionar mejor nuestro equipo. Revisa el estado de tus documentos y actualiza tus datos personales.</p>
-    <h5>Estado de tus Documentos:</h5>
-    <ul class="doc-status-list">
-        <li>Documento de Identidad:
-            {% if current_user.documento_identidad_file %}
-                <span class="status-ok">✔️ Cargado</span>
-            {% else %}
-                <span class="status-pending">❌ Pendiente</span>
-            {% endif %}
-        </li>
-        <li>Certificado Bancario:
-            {% if current_user.certificado_bancario_file %}
-                <span class="status-ok">✔️ Cargado</span>
-            {% else %}
-                <span class="status-pending">❌ Pendiente</span>
-            {% endif %}
-        </li>
-        <li>Contrato:
-            {% if current_user.contrato_file %}
-                <span class="status-ok">✔️ Cargado</span>
-            {% else %}
-                <span class="status-pending">❌ Pendiente</span>
-            {% endif %}
-        </li>
-    </ul>
-    <a href="{{ url_for('mis_datos') }}" class="button-link" style="background-color: var(--warning-color); color: var(--dark-color); border: 1px solid #856404;">Actualizar mis datos y documentos</a>
-</div>
 {% endblock %}

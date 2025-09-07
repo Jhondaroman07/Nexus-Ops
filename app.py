@@ -9,12 +9,13 @@ import io
 import csv
 import uuid
 from flask import (Flask, render_template, request, send_file, url_for,
-                   redirect, flash, Response, g, session)
+                   redirect, flash, Response, g, session, after_this_request)
 from flask_sqlalchemy import SQLAlchemy
 from flask_login import (LoginManager, UserMixin, login_user, logout_user,
                        login_required, current_user)
 from werkzeug.security import generate_password_hash, check_password_hash
 from werkzeug.utils import secure_filename
+from sqlalchemy.orm import joinedload
 
 # =============================================
 # CONFIGURACIÓN INICIAL
@@ -37,6 +38,7 @@ if all([db_user, db_password, db_host, db_name]):
     app.config['SQLALCHEMY_DATABASE_URI'] = \
         f"mysql+pymysql://{db_user}:{db_password}@{db_host}/{db_name}"
     app.config['SQLALCHEMY_POOL_RECYCLE'] = 280
+    app.config['SQLALCHEMY_POOL_PRE_PING'] = True
 else:
     app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///' + os.path.join(BASE_DIR, 'database.db')
 
@@ -63,6 +65,16 @@ os.makedirs(app.config['USER_DOCS_FOLDER'], exist_ok=True)
 # =============================================
 # MODELOS DE BASE DE DATOS
 # =============================================
+# Tabla de asociación para la relación muchos a muchos entre User y Team
+user_teams = db.Table('user_teams',
+    db.Column('user_id', db.Integer, db.ForeignKey('user.id'), primary_key=True),
+    db.Column('team_id', db.Integer, db.ForeignKey('team.id'), primary_key=True)
+)
+
+class Team(db.Model):
+    id = db.Column(db.Integer, primary_key=True)
+    name = db.Column(db.String(100), unique=True, nullable=False)
+
 class User(UserMixin, db.Model):
     id = db.Column(db.Integer, primary_key=True)
     email = db.Column(db.String(150), unique=True, nullable=False)
@@ -93,6 +105,9 @@ class User(UserMixin, db.Model):
     certificado_bancario_uploaded_at = db.Column(db.DateTime, nullable=True)
     contrato_uploaded_at = db.Column(db.DateTime, nullable=True)
     time_logs = db.relationship('TimeLog', backref='user', lazy=True)
+    # Relación con equipos
+    teams = db.relationship('Team', secondary=user_teams, lazy='subquery',
+                            backref=db.backref('users', lazy=True))
     def set_password(self, password): self.password_hash = generate_password_hash(password)
     def check_password(self, password): return check_password_hash(self.password_hash, password)
 
@@ -207,8 +222,14 @@ def logout():
 @panel_admin_required
 def admin_panel():
     from sqlalchemy import func
-    if request.method == 'POST':
-        email, password, nombre, apellido, role = (request.form.get(k) for k in ['email', 'password', 'nombre', 'apellido', 'role'])
+    if request.method == 'POST' and 'nombre' in request.form:
+        email = request.form.get('email')
+        password = request.form.get('password')
+        nombre = request.form.get('nombre')
+        apellido = request.form.get('apellido')
+        role = request.form.get('role')
+        team_ids = request.form.getlist('teams')
+
         if current_user.role == 'Admin' and role in ['Admin', 'SubGerente', 'Gerente']:
             flash('Un Admin solo puede crear roles de Agente.', 'error'); return redirect(url_for('admin_panel'))
         if current_user.role == 'SubGerente' and role in ['SubGerente', 'Gerente']:
@@ -218,14 +239,25 @@ def admin_panel():
         else:
             new_user = User(email=email, nombre=nombre, apellido=apellido, role=role)
             new_user.set_password(password)
-            db.session.add(new_user); db.session.commit()
+            if team_ids:
+                new_user.teams = Team.query.filter(Team.id.in_(team_ids)).all()
+            db.session.add(new_user)
+            db.session.commit()
             flash(f'Usuario {email} creado.', 'success')
         return redirect(url_for('admin_panel'))
+    
+    # Lógica para GET
+    users_query = User.query.options(joinedload(User.teams)).order_by(User.id)
+    if current_user.role == 'Admin':
+        admin_team_ids = {team.id for team in current_user.teams}
+        if admin_team_ids:
+            users_query = users_query.join(user_teams).filter(user_teams.c.team_id.in_(admin_team_ids))
+    users = users_query.all()
     
     colombia_tz = pytz.timezone('America/Bogota')
     date_from_str = request.args.get('date_from', datetime.now(colombia_tz).strftime('%Y-%m-%d'))
     date_to_str = request.args.get('date_to', datetime.now(colombia_tz).strftime('%Y-%m-%d'))
-    user_ids = request.args.getlist('user_ids')
+    user_ids_filter = request.args.getlist('user_ids')
     
     query = db.session.query(User.nombre, User.apellido, User.email, func.sum(TimeLog.duration).label('total_duration')).join(TimeLog)
     start_date = datetime.strptime(date_from_str, '%Y-%m-%d').date()
@@ -233,21 +265,40 @@ def admin_panel():
     start_dt_utc = colombia_tz.localize(datetime.combine(start_date, time.min)).astimezone(pytz.utc)
     end_dt_utc = colombia_tz.localize(datetime.combine(end_date, time.max)).astimezone(pytz.utc)
     query = query.filter(TimeLog.start_time.between(start_dt_utc, end_dt_utc))
-    if user_ids and 'all' not in user_ids:
-        query = query.filter(TimeLog.user_id.in_([int(uid) for uid in user_ids]))
-    logs_from_db = query.group_by(User.id).all()
 
+    if current_user.role == 'Admin':
+        admin_team_ids = {team.id for team in current_user.teams}
+        if admin_team_ids:
+            query = query.join(user_teams).filter(user_teams.c.team_id.in_(admin_team_ids))
+
+    if user_ids_filter and 'all' not in user_ids_filter:
+        query = query.filter(TimeLog.user_id.in_([int(uid) for uid in user_ids_filter]))
+    
+    logs_from_db = query.group_by(User.id).all()
     time_logs_formatted = [{'nombre': log.nombre, 'apellido': log.apellido, 'email': log.email,
                             'formatted_duration': format_seconds_to_hhh_mm_ss(log.total_duration)}
                            for log in logs_from_db]
 
-    active_users = User.query.join(TimeLog).filter(TimeLog.end_time == None).all()
-    users_with_logs = User.query.filter(User.time_logs.any()).order_by(User.nombre).all()
-    users = User.query.order_by(User.id).all()
+    active_users_query = User.query.join(TimeLog).filter(TimeLog.end_time == None)
+    if current_user.role == 'Admin':
+        admin_team_ids = {team.id for team in current_user.teams}
+        if admin_team_ids:
+            active_users_query = active_users_query.join(user_teams).filter(user_teams.c.team_id.in_(admin_team_ids))
+    active_users = active_users_query.all()
     
+    users_with_logs_query = User.query.filter(User.time_logs.any()).order_by(User.nombre)
+    if current_user.role == 'Admin':
+        admin_team_ids = {team.id for team in current_user.teams}
+        if admin_team_ids:
+            users_with_logs_query = users_with_logs_query.join(user_teams).filter(user_teams.c.team_id.in_(admin_team_ids))
+    users_with_logs = users_with_logs_query.all()
+    
+    teams = Team.query.order_by(Team.name).all()
+    all_teams = Team.query.order_by(Team.name).all() # Para el formulario de creación
+
     return render_template('admin.html', users=users, time_logs=time_logs_formatted, users_with_logs=users_with_logs, 
-                           active_users=active_users, timedelta=timedelta,
-                           filters={'date_from': date_from_str, 'date_to': date_to_str, 'user_ids': user_ids})
+                           active_users=active_users, timedelta=timedelta, teams=teams, all_teams=all_teams,
+                           filters={'date_from': date_from_str, 'date_to': date_to_str, 'user_ids': user_ids_filter})
 
 @app.route('/mis_datos', methods=['GET', 'POST'])
 @login_required
@@ -339,7 +390,7 @@ def download_document(user_id, doc_type):
 @login_required
 @editor_required
 def edit_user(user_id):
-    user_to_edit = User.query.get_or_404(user_id)
+    user_to_edit = User.query.options(joinedload(User.teams)).get_or_404(user_id)
     if current_user.role == 'SubGerente' and user_to_edit.role == 'Gerente': 
         flash('No tienes permiso para editar al usuario Gerente.', 'error'); return redirect(url_for('admin_panel'))
     
@@ -351,6 +402,10 @@ def edit_user(user_id):
         user_to_edit.role = new_role
         if (new_password := request.form.get('password')): user_to_edit.set_password(new_password)
         
+        # Actualización de equipos
+        team_ids = request.form.getlist('teams')
+        user_to_edit.teams = Team.query.filter(Team.id.in_(team_ids)).all()
+
         user_to_edit.nombre = request.form.get('nombre'); user_to_edit.apellido = request.form.get('apellido')
         user_to_edit.correo_personal = request.form.get('correo_personal'); user_to_edit.tipo_documento = request.form.get('tipo_documento')
         user_to_edit.numero_documento = request.form.get('numero_documento'); user_to_edit.numero_celular = request.form.get('numero_celular')
@@ -365,7 +420,9 @@ def edit_user(user_id):
 
         db.session.commit(); flash(f'Usuario {user_to_edit.email} actualizado.', 'success'); return redirect(url_for('admin_panel'))
     
-    return render_template('edit_user.html', user=user_to_edit)
+    all_teams = Team.query.order_by(Team.name).all()
+    user_team_ids = {team.id for team in user_to_edit.teams}
+    return render_template('edit_user.html', user=user_to_edit, all_teams=all_teams, user_team_ids=user_team_ids)
 
 @app.route('/admin/delete_user/<int:user_id>', methods=['POST'])
 @login_required
@@ -374,6 +431,51 @@ def delete_user(user_id):
     user_to_delete = User.query.get_or_404(user_id)
     if user_to_delete.role == 'Gerente': flash('La cuenta del Gerente no puede ser eliminada.', 'error'); return redirect(url_for('admin_panel'))
     db.session.delete(user_to_delete); db.session.commit(); flash(f'Usuario {user_to_delete.email} eliminado.', 'success'); return redirect(url_for('admin_panel'))
+
+# =============================================
+# RUTAS DE GESTIÓN DE EQUIPOS
+# =============================================
+@app.route('/admin/teams/add', methods=['POST'])
+@login_required
+@editor_required
+def add_team():
+    team_name = request.form.get('team_name')
+    if not team_name:
+        flash('El nombre del equipo no puede estar vacío.', 'error')
+    elif Team.query.filter_by(name=team_name).first():
+        flash('Ya existe un equipo con ese nombre.', 'error')
+    else:
+        new_team = Team(name=team_name)
+        db.session.add(new_team)
+        db.session.commit()
+        flash(f'Equipo "{team_name}" creado exitosamente.', 'success')
+    return redirect(url_for('admin_panel'))
+
+@app.route('/admin/teams/edit/<int:team_id>', methods=['POST'])
+@login_required
+@editor_required
+def edit_team(team_id):
+    team_to_edit = Team.query.get_or_404(team_id)
+    new_name = request.form.get('new_team_name')
+    if not new_name:
+        flash('El nuevo nombre del equipo no puede estar vacío.', 'error')
+    elif Team.query.filter(Team.name == new_name, Team.id != team_id).first():
+        flash('Ya existe otro equipo con ese nombre.', 'error')
+    else:
+        team_to_edit.name = new_name
+        db.session.commit()
+        flash('Nombre del equipo actualizado.', 'success')
+    return redirect(url_for('admin_panel'))
+
+@app.route('/admin/teams/delete/<int:team_id>', methods=['POST'])
+@login_required
+@editor_required
+def delete_team(team_id):
+    team_to_delete = Team.query.get_or_404(team_id)
+    db.session.delete(team_to_delete)
+    db.session.commit()
+    flash(f'Equipo "{team_to_delete.name}" eliminado.', 'success')
+    return redirect(url_for('admin_panel'))
 
 @app.route('/admin/force_logout/<int:user_id>', methods=['POST'])
 @login_required
@@ -429,15 +531,33 @@ def bulk_upload():
         for row in csv_reader:
             email = row.get('email')
             if not email or User.query.filter_by(email=email).first():
-                skipped_count += 1; continue
-            new_user = User(email=email, nombre=row.get('nombre'), apellido=row.get('apellido'), role='Agent')
+                skipped_count += 1
+                continue
+            
+            new_user = User(
+                email=email,
+                nombre=row.get('nombre'),
+                apellido=row.get('apellido'),
+                role='Agent'
+            )
             new_user.set_password(row.get('password'))
-            db.session.add(new_user); created_count += 1
+
+            # Asignar equipo si se proporciona y existe
+            if team_name := row.get('equipo'):
+                team = Team.query.filter_by(name=team_name.strip()).first()
+                if team:
+                    new_user.teams.append(team)
+
+            db.session.add(new_user)
+            created_count += 1
+
         db.session.commit()
         flash(f'Carga masiva completada: {created_count} usuarios creados, {skipped_count} omitidos (ya existían).', 'success')
     except Exception as e:
-        db.session.rollback(); flash(f'Error durante la carga masiva: {str(e)}', 'error')
+        db.session.rollback()
+        flash(f'Error durante la carga masiva: {str(e)}', 'error')
     return redirect(url_for('admin_panel'))
+
 
 @app.route('/admin/export_timelogs', methods=['POST'])
 @login_required
@@ -607,12 +727,12 @@ def export_users():
         flash('No seleccionaste ningún usuario para exportar.', 'warning')
         return redirect(url_for('admin_panel'))
 
-    query = User.query.filter(User.id.in_(user_ids)).order_by(User.nombre)
+    query = User.query.filter(User.id.in_(user_ids)).options(joinedload(User.teams)).order_by(User.nombre)
     users_to_export = query.all()
 
     headers = [
         'ID', 'Nombre', 'Apellido', 'Correo Corporativo', 'Correo Personal', 
-        'Rol', 'Estado', 'Tipo Documento', 'Numero Documento', 'Numero Celular',
+        'Rol', 'Estado', 'Equipo(s)', 'Tipo Documento', 'Numero Documento', 'Numero Celular',
         'Fecha Nacimiento', 'Fecha Ingreso', 'País Residencia', 'Ciudad Residencia',
         'URL LinkedIn', 'Service', 'LOB', 'Cargo', 'Team Lead', 'Team Manager'
     ]
@@ -622,6 +742,7 @@ def export_users():
     writer.writerow(headers)
 
     for user in users_to_export:
+        team_names = ", ".join(sorted([team.name for team in user.teams]))
         writer.writerow([
             user.id,
             user.nombre,
@@ -630,6 +751,7 @@ def export_users():
             user.correo_personal,
             user.role,
             user.estado_colaborador,
+            team_names,
             user.tipo_documento,
             user.numero_documento,
             user.numero_celular,
@@ -667,14 +789,15 @@ def execute_script(script_name, input_folder, output_folder):
     module.INPUT_FOLDER, module.OUTPUT_FOLDER = input_folder, output_folder
     if hasattr(module, 'procesar_archivos'): module.procesar_archivos()
     else: raise AttributeError(f"Función 'procesar_archivos' no encontrada en {script_name}")
-        
+
 def after_this_request(f):
     if not hasattr(g, 'after_request_callbacks'): g.after_request_callbacks = []
     g.after_request_callbacks.append(f); return f
 
 @app.teardown_request
 def call_after_request_callbacks(response):
-    for callback in getattr(g, 'after_request_callbacks', ()): response = callback(response)
+    if response: # response can be None in some cases
+        for callback in getattr(g, 'after_request_callbacks', ()): response = callback(response)
     return response
 
 if __name__ == '__main__':

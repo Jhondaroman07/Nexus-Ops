@@ -10,13 +10,19 @@
     .collapsible-trigger.active .arrow { transform: rotate(180deg); }
     .collapsible-content { padding: 0 25px; max-height: 0; overflow: hidden; transition: max-height 0.4s ease-out, padding 0.3s ease-out; background-color: #f8f9fa; border: 1px solid #e0e0e0; border-top: none; border-bottom-left-radius: var(--border-radius); border-bottom-right-radius: var(--border-radius); }
     .report-form .form-row { display: flex; flex-wrap: wrap; gap: 20px; align-items: flex-end; }
+    .team-management-grid { display: grid; grid-template-columns: 1fr 2fr; gap: 30px; align-items: start; }
+    .team-list-item { display: flex; justify-content: space-between; align-items: center; padding: 10px; border-bottom: 1px solid #ddd; }
+    .checkbox-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); gap: 10px; background-color: #fff; border: 1px solid #ccc; padding: 15px; border-radius: var(--border-radius); }
+    .checkbox-item { display: flex; align-items: center; }
+    .checkbox-item input[type="checkbox"] { margin-right: 10px; width: 18px; height: 18px; }
+    .checkbox-item label { font-weight: normal; margin: 0; }
 </style>
 
 <h2>Gestión de Usuarios y Reportes</h2>
 
 <div style="margin-top: 20px;">
-    <button type="button" class="collapsible-trigger"><span>Crear Nuevo Usuario</span><span class="arrow">🔽</span></button>
-    <div class="collapsible-content">
+    <button type="button" class="collapsible-trigger active"><span>Crear Nuevo Usuario</span><span class="arrow" style="transform: rotate(180deg);">🔼</span></button>
+    <div class="collapsible-content" style="max-height: 1200px;">
         <div style="padding: 25px 0;">
             <form method="POST" action="{{ url_for('admin_panel') }}">
                 <div class="form-group"><label for="nombre">Nombre Completo</label><input type="text" id="nombre" name="nombre" required></div>
@@ -35,6 +41,21 @@
                         {% endif %}
                     </select>
                 </div>
+                
+                {% if current_user.role in ['SubGerente', 'Gerente'] %}
+                <div class="form-group">
+                    <label>Asignar Equipo(s):</label>
+                    <div class="checkbox-grid">
+                        {% for team in all_teams %}
+                        <div class="checkbox-item">
+                            <input type="checkbox" name="teams" value="{{ team.id }}" id="team-create-{{ team.id }}">
+                            <label for="team-create-{{ team.id }}">{{ team.name }}</label>
+                        </div>
+                        {% endfor %}
+                    </div>
+                </div>
+                {% endif %}
+
                 <button type="submit">Crear Usuario</button>
             </form>
         </div>
@@ -43,12 +64,54 @@
 
 {% if current_user.role in ['SubGerente', 'Gerente'] %}
 <div style="margin-top: 20px;">
+    <button type="button" class="collapsible-trigger" style="background-color: #5a3a91;">
+        <span>Gestión de Equipos</span><span class="arrow">🔽</span>
+    </button>
+    <div class="collapsible-content">
+        <div style="padding: 25px 0;">
+            <div class="team-management-grid">
+                <div>
+                    <h4>Añadir Nuevo Equipo</h4>
+                    <form method="POST" action="{{ url_for('add_team') }}">
+                        <div class="form-group">
+                            <label for="team_name">Nombre del Equipo</label>
+                            <input type="text" id="team_name" name="team_name" required>
+                        </div>
+                        <button type="submit">Crear Equipo</button>
+                    </form>
+                </div>
+                <div>
+                    <h4>Equipos Actuales</h4>
+                    {% if teams %}
+                        <div style="border: 1px solid #e0e0e0; border-radius: var(--border-radius); background: white;">
+                            {% for team in teams %}
+                                <div class="team-list-item">
+                                    <form method="POST" action="{{ url_for('edit_team', team_id=team.id) }}" style="display: flex; align-items: center; gap: 10px; flex-grow: 1;">
+                                        <input type="text" name="new_team_name" value="{{ team.name }}" style="flex-grow: 1; margin: 0;">
+                                        <button type="submit" class="button-link" style="padding: 5px 10px;">Guardar</button>
+                                    </form>
+                                    <form method="POST" action="{{ url_for('delete_team', team_id=team.id) }}" onsubmit="return confirm('¿Seguro que quieres eliminar el equipo {{ team.name }}? Esta acción no se puede deshacer.');" style="margin-left: 10px;">
+                                        <button type="submit" class="button-link button-danger" style="padding: 5px 10px;">Eliminar</button>
+                                    </form>
+                                </div>
+                            {% endfor %}
+                        </div>
+                    {% else %}
+                        <p>Aún no se han creado equipos.</p>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div style="margin-top: 20px;">
     <button type="button" class="collapsible-trigger" style="background-color: var(--secondary-color);">
         <span>Carga Masiva de Usuarios</span><span class="arrow">🔽</span>
     </button>
     <div class="collapsible-content">
         <div style="padding: 25px 0;">
-            <p>Sube un archivo CSV para crear múltiples usuarios a la vez. El archivo debe contener las columnas: <strong>nombre, apellido, email, password</strong>.</p>
+            <p>Sube un archivo CSV para crear múltiples usuarios a la vez. El archivo debe contener las columnas: <strong>nombre, apellido, email, password, equipo</strong>. La columna "equipo" es opcional.</p>
             <form method="POST" action="{{ url_for('bulk_upload') }}" enctype="multipart/form-data">
                 <div class="form-group">
                     <label for="bulk-file">Archivo CSV:</label>
@@ -60,7 +123,6 @@
     </div>
 </div>
 {% endif %}
-
 
 <div style="margin-top: 20px;">
     <button type="button" class="collapsible-trigger" style="background-color: var(--info-color);">
@@ -165,6 +227,7 @@
                             <th style="padding: 12px;">Nombre</th>
                             <th style="padding: 12px;">Correo</th>
                             <th style="padding: 12px;">Rol</th>
+                            <th style="padding: 12px;">Equipo(s)</th>
                             <th style="padding: 12px; text-align: center;">Acciones</th>
                         </tr>
                     </thead>
@@ -175,6 +238,7 @@
                             <td style="padding: 12px;">{{ user.nombre or '' }} {{ user.apellido or '' }}</td>
                             <td style="padding: 12px;">{{ user.email }}</td>
                             <td style="padding: 12px;">{{ user.role }}</td>
+                            <td style="padding: 12px;">{{ user.teams|map(attribute='name')|join(', ') }}</td>
                             <td style="padding: 12px; text-align: center; display: flex; gap: 10px; justify-content: center; align-items: center;">
                                 {% if current_user.role in ['SubGerente', 'Gerente'] and (current_user.role == 'Gerente' or user.role != 'Gerente') %}
                                     <a href="{{ url_for('edit_user', user_id=user.id) }}" class="button-link" style="padding: 8px 12px; font-size: 14px;">Editar</a>
@@ -198,8 +262,9 @@
     document.querySelectorAll('.collapsible-trigger').forEach(trigger => {
         trigger.addEventListener('click', function(event) {
             const content = this.nextElementSibling;
+            // Evita el colapso si se hace clic en un botón o input dentro del contenido
             if (content.contains(event.target) && this.classList.contains('active')) {
-                if (event.target.tagName === 'BUTTON' || event.target.tagName === 'A') {
+                if (event.target.tagName === 'BUTTON' || event.target.tagName === 'A' || event.target.tagName === 'INPUT') {
                     return;
                 }
             }
@@ -224,7 +289,6 @@
             }
         }
         
-        // Lógica para seleccionar/deseleccionar todos los usuarios
         const selectAllCheckbox = document.getElementById('select-all-users');
         if (selectAllCheckbox) {
             selectAllCheckbox.addEventListener('change', function() {

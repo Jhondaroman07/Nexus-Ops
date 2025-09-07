@@ -31,13 +31,35 @@
         padding: 20px;
         text-align: center;
     }
+    .checkbox-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+        gap: 10px;
+        background-color: #fff;
+        border: 1px solid #ccc;
+        padding: 15px;
+        border-radius: var(--border-radius);
+    }
+    .checkbox-item {
+        display: flex;
+        align-items: center;
+    }
+    .checkbox-item input[type="checkbox"] {
+        margin-right: 10px;
+        width: 18px;
+        height: 18px;
+    }
+    .checkbox-item label {
+        font-weight: normal;
+        margin: 0;
+    }
 </style>
 
 <h2>Editar Usuario: {{ user.email }}</h2>
 
 <form method="POST" action="{{ url_for('edit_user', user_id=user.id) }}">
     <div class="profile-form-grid">
-        <h4 class="form-section-title">Información de Acceso</h4>
+        <h4 class="form-section-title">Información de Acceso y Pertenencia</h4>
         <div class="form-group">
             <label for="email">Correo Corporativo</label>
             <input type="email" id="email" name="email" value="{{ user.email }}" required>
@@ -65,6 +87,19 @@
                 <option value="Activo" {% if user.estado_colaborador == 'Activo' %}selected{% endif %}>Activo</option>
                 <option value="Baja" {% if user.estado_colaborador == 'Baja' %}selected{% endif %}>Baja</option>
             </select>
+        </div>
+
+        <div class="form-group" style="grid-column: 1 / -1;">
+            <label>Equipos Asignados</label>
+            <div class="checkbox-grid">
+                {% for team in all_teams %}
+                <div class="checkbox-item">
+                    <input type="checkbox" name="teams" value="{{ team.id }}" id="team-edit-{{ team.id }}" 
+                           {% if team.id in user_team_ids %}checked{% endif %}>
+                    <label for="team-edit-{{ team.id }}">{{ team.name }}</label>
+                </div>
+                {% endfor %}
+            </div>
         </div>
 
         <h4 class="form-section-title">Información Personal</h4>
